@@ -21,8 +21,8 @@ app.use(fileUpload());
 // Database Connection
 const connection = mysql.createConnection({
   host: "localhost",
-  user: "root_2",
-  password: "1@HelloMoto",
+  user: "root",
+  password: "",
   database: "foodorderingwesitedb",
 });
 connection.connect();
@@ -136,19 +136,67 @@ function renderHomePage(req, res) {
 }
 
 // Render Cart Page
+// function renderCart(req, res) {
+//   const userId = req.cookies.cookuid;
+//   const userName = req.cookies.cookuname;
+//   const recommendedProducts = recommendProducts(updatedItemIds);
+//   console.log(recommendedProducts);
+//   connection.query(
+//     "SELECT user_id, user_name FROM users WHERE user_id = ? AND user_name = ?",
+//     [userId, userName],
+//     function (error, results) {
+//       if (!error && results.length) {
+//         res.render("cart", {
+//           username: userName,
+//           userid: userId,
+//           items: citemdetails,
+//           item_count: item_in_cart,
+//           recommendedProducts: recommendedProducts,
+//         });
+//       } else {
+//         res.render("signin");
+//       }
+//     }
+//   );
+// }
 function renderCart(req, res) {
   const userId = req.cookies.cookuid;
   const userName = req.cookies.cookuname;
+  const recommendedProducts = recommendProducts(updatedItemIds);
+
+  console.log("recommendedProducts",recommendedProducts);
   connection.query(
     "SELECT user_id, user_name FROM users WHERE user_id = ? AND user_name = ?",
     [userId, userName],
     function (error, results) {
       if (!error && results.length) {
-        res.render("cart", {
-          username: userName,
-          userid: userId,
-          items: citemdetails,
-          item_count: item_in_cart,
+        // Tạo một mảng chứa các promise của các truy vấn cơ sở dữ liệu để lấy thông tin sản phẩm
+        const productQueries = recommendedProducts.map(product => {
+          return new Promise((resolve, reject) => {
+            connection.query(
+              "SELECT * FROM menu WHERE item_id = ?",
+              [product.productId],
+              function (error, productInfo) {
+                if (!error && productInfo.length) {
+                  resolve(productInfo[0]);
+                } else {
+                  resolve(null);
+                }
+              }
+            );
+          });
+        });
+
+        // Sử dụng Promise.all để đợi tất cả các truy vấn cơ sở dữ liệu hoàn thành
+        Promise.all(productQueries).then(productInfos => {
+          res.render("cart", {
+            username: userName,
+            userid: userId,
+            items: citemdetails,
+            item_count: item_in_cart,
+            recommendedProducts: recommendedProducts,
+            productInfos: productInfos // Mảng chứa thông tin của các sản phẩm
+          });
         });
       } else {
         res.render("signin");
@@ -157,16 +205,75 @@ function renderCart(req, res) {
   );
 }
 
-// Update Cart
+// Khai báo một mảng để lưu trữ ID của các sản phẩm đã được cập nhật
+// Khai báo một mảng để lưu trữ ID của các sản phẩm đã được cập nhật
+let updatedItemIds = [];
+
 function updateCart(req, res) {
   const cartItems = req.body.cart;
   const uniqueItems = [...new Set(cartItems)];
 
+  // Thêm các ID mới vào mảng updatedItemIds
+  uniqueItems.forEach(item => {
+    if (!updatedItemIds.includes(item)) {
+      updatedItemIds.push(item);
+    }
+  });
+
   // Function to fetch details of items in the cart
   getItemDetails(uniqueItems, uniqueItems.length);
 
+  // Console.log để hiển thị mảng updatedItemIds
+  console.log("Updated Item IDs:", updatedItemIds);
+
   // Update cart logic if necessary
+} 
+
+
+// Tạo một hàm để đề xuất sản phẩm dựa trên các ID sản phẩm đã được cập nhật
+function recommendProducts(updatedItemIds) {
+  // Giả sử rằng bạn đã có dữ liệu của các luật kết hợp từ thuật toán Apriori
+  // Trong ví dụ này, dữ liệu được đại diện bằng một mảng các đối tượng, mỗi đối tượng có các trường itemSet và confidence
+  const associationRules = [
+    { itemSet: [1, 2], confidence: 0.8 },
+    { itemSet: [2, 3], confidence: 0.6 },
+    // Thêm các luật kết hợp khác nếu cần thiết
+  ];
+
+  // Tạo một đối tượng để lưu trữ các sản phẩm được đề xuất và mức độ tin cậy của chúng
+  const recommendedProducts = {};
+
+  // Duyệt qua từng luật kết hợp
+  associationRules.forEach(rule => {
+    // Kiểm tra xem luật có chứa ít nhất một sản phẩm đã được cập nhật không
+    if (rule.itemSet.some(item => updatedItemIds.includes(item))) {
+      // Duyệt qua từng sản phẩm trong luật kết hợp
+      rule.itemSet.forEach(item => {
+        // Kiểm tra xem sản phẩm đã được cập nhật và không được đề xuất trước đó
+        if (!updatedItemIds.includes(item) && !recommendedProducts[item]) {
+          // Thêm sản phẩm vào danh sách đề xuất với mức độ tin cậy tương ứng
+          recommendedProducts[item] = rule.confidence;
+        }
+      });
+    }
+  });
+
+  // Sắp xếp các sản phẩm theo mức độ tin cậy giảm dần
+  const sortedRecommendedProducts = Object.entries(recommendedProducts)
+    .sort((a, b) => b[1] - a[1])
+    .map(([productId, confidence]) => ({
+      productId: parseInt(productId),
+      confidence: confidence
+    }));
+
+  return sortedRecommendedProducts;
 }
+
+// Sử dụng hàm recommendProducts để đề xuất sản phẩm dựa trên mảng updatedItemIds
+
+
+
+
 
 // Function to fetch details of items in the cart
 let citems = [];
@@ -186,6 +293,7 @@ function getItemDetails(citems, size) {
   });
   item_in_cart = size;
 }
+
 
 // Checkout
 function checkout(req, res) {
@@ -661,6 +769,7 @@ function changePrice(req, res) {
     }
   );
 }
+
 
 // Logout
 function logout(req, res) {

@@ -1,0 +1,493 @@
+{
+    "Bánh burger" : [
+
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xcheesedlx_bb.png.pagespeed.ic.y6Fl-O7XsV.png",
+          "name": "Burger Bò phô mai đặc biệt",
+          "price": 56000,
+          "image_path": "banh-burger/burger-bo-pho-mai-dac-biet.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xchickbg.png.pagespeed.ic.F1V-ggbvmj.png",
+          "name": "Burger Gà Nhỏ Mayo",
+          "price": 36000,
+          "image_path": "banh-burger/burger-ga-nho-mayo.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xmcroyal_bb.png.pagespeed.ic.JK7WpC530b.png",
+          "name": "Burger Bò miếng lớn phô-mai",
+          "price": 79000,
+          "image_path": "banh-burger/burger-bo-mieng-lon-pho-mai.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xsausagebg_bb.png.pagespeed.ic.CvQAjE6liA.png",
+          "name": "Burger Xúc Xích - 337 Kcal",
+          "price": 36000,
+          "image_path": "banh-burger/burger-xuc-xich-337-kcal.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xdoublecheese_bb.png.pagespeed.ic.W4K-o7ovIy.png",
+          "name": "Burger 2 lớp bò, phô-mai",
+          "price": 66000,
+          "image_path": "banh-burger/burger-2-lop-bo-pho-mai.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xbigmac_bb.png.pagespeed.ic.z9ftemCCs7.png",
+          "name": "Burger Big Mac",
+          "price": 76000,
+          "image_path": "banh-burger/burger-big-mac.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xfof_bb.png.pagespeed.ic.eCh3CgFihN.png",
+          "name": "Burger Phi lê Cá phô mai",
+          "price": 56000,
+          "image_path": "banh-burger/burger-phi-le-ca-pho-mai.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xmcchickendlx_bb.png.pagespeed.ic.RkyD3il4lc.png",
+          "name": "Burger Gà phô-mai đặc biệt",
+          "price": 69000,
+          "image_path": "banh-burger/burger-ga-pho-mai-dac-biet.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xmcroyaldlx_bb.png.pagespeed.ic.kULCpBffVo.png",
+          "name": "Burger Bò Hoàng Gia Đặc Biệt",
+          "price": 89000,
+          "image_path": "banh-burger/burger-bo-hoang-gia-dac-biet.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xmcspicydlx_bb.png.pagespeed.ic.7OC_nsxbWy.png",
+          "name": "Burger phi-lê gà cay đặc biệt",
+          "price": 89000,
+          "image_path": "banh-burger/burger-phi-le-ga-cay-dac-biet.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xmcchicken_bb.png.pagespeed.ic.bkLU_gTdjb.png",
+          "name": "Burger Gà Mayo",
+          "price": 59000,
+          "image_path": "banh-burger/burger-ga-mayo.png"
+        }
+    ],
+
+
+
+    "Bánh tráng miệng" : [
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xTIRAMISU.png.pagespeed.ic.Sx7Kw1tYVA.png",
+          "name": "Bánh Tiramisu",
+          "price": 55000,
+          "image_path": "banh-trang-mieng/banh-tiramisu.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xCSO_7425.png.pagespeed.ic.0op1fGFd2B.png",
+          "name": "Bánh Macaron Dừa 1 cái",
+          "price": 15000,
+          "image_path": "banh-trang-mieng/banh-macaron-dua-1-cai.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xCHOCOLATE-CHIP-COOKIE.png.pagespeed.ic.j7xgYsz6C5.png",
+          "name": "Bánh Quy Sôcôla",
+          "price": 25000,
+          "image_path": "banh-trang-mieng/banh-quy-socola.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xBANANA-MUFFIN.png.pagespeed.ic.1okJWz4V4s.png",
+          "name": "Bánh nướng vị Chuối",
+          "price": 30000,
+          "image_path": "banh-trang-mieng/banh-nuong-vi-chuoi.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xCHOCO-BROWNIE.png.pagespeed.ic.dSF_C-dHbv.png",
+          "name": "Bánh Brownie Sô-cô-la",
+          "price": 30000,
+          "image_path": "banh-trang-mieng/banh-brownie-so-co-la.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xCOCONUT-MACAROON.png.pagespeed.ic.EXjarxv0La.png",
+          "name": "Bánh Macaron Dừa 2 cái",
+          "price": 25000,
+          "image_path": "banh-trang-mieng/banh-macaron-dua-2-cai.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xBAKED-CHEESECAKE.png.pagespeed.ic.B9kjh3PtkU.png",
+          "name": "Bánh Phô mai nướng",
+          "price": 35000,
+          "image_path": "banh-trang-mieng/banh-pho-mai-nuong.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xcroissant.png.pagespeed.ic.N6t0jVMrwE.png",
+          "name": "Bánh Sừng Trâu",
+          "price": 30000,
+          "image_path": "banh-trang-mieng/banh-sung-trau.png"
+        }
+    ],
+
+    "Combo" : [
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/Combo/x02,281,29.png.pagespeed.ic.-_gXIGxEjl.png",
+          "name": "Combo 2A",
+          "price": 131000,
+          "image_path": "combo/combo-2a.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/Combo/x03,282,29.png.pagespeed.ic.NIs8esRH_u.png",
+          "name": "Combo 2C",
+          "price": 189000,
+          "image_path": "combo/combo-2c.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/Combo/x04,282,29.png.pagespeed.ic.RjkDthnZIc.png",
+          "name": "Combo 3B",
+          "price": 289000,
+          "image_path": "combo/combo-3b.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/Combo/xcombo3A.png.pagespeed.ic.UK9KtoeDYV.png",
+          "name": "Combo 3A",
+          "price": 279000,
+          "image_path": "combo/combo-3a.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/Combo/xcombo2B.png.pagespeed.ic.J2NElQB2j4.png",
+          "name": "Combo 2B",
+          "price": 179000,
+          "image_path": "combo/combo-2b.png"
+        }
+    ],
+
+
+    "Gà rán" : [
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/x20pcs_chicken_mcwings.png.pagespeed.ic.6xLXBVozsn.png",
+          "name": "20 miếng  Gà McNuggets™",
+          "price": 121000,
+          "image_path": "ga-ran/20-mieng-ga-mcnuggets-tm.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/x10-wings.png.pagespeed.ic.zc7N0jeAGz.png",
+          "name": "10 Miếng Cánh Gà McWings™",
+          "price": 179000,
+          "image_path": "ga-ran/10-mieng-canh-ga-mcwings-tm.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/x6pcs_chicken_mcnuggets.png.pagespeed.ic.TINEnkegnr.png",
+          "name": "6 miếng Gà McNuggets™",
+          "price": 49000,
+          "image_path": "ga-ran/6-mieng-ga-mcnuggets-tm.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/x6-wings.png.pagespeed.ic.TeMRTPPnU6.png",
+          "name": "6 Miếng Cánh Gà McWings™",
+          "price": 125000,
+          "image_path": "ga-ran/6-mieng-canh-ga-mcwings-tm.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/x3pcs_chicken_mcwings.png.pagespeed.ic.MPzgEa9hzo.png",
+          "name": "3 miếng  Cánh Gà McWings™",
+          "price": 69000,
+          "image_path": "ga-ran/3-mieng-canh-ga-mcwings-tm.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/x9pcs-chicken-mcnuggets.png.pagespeed.ic.8qsR97YWZC.png",
+          "name": "9 miếng  Gà McNuggets™",
+          "price": 69000,
+          "image_path": "ga-ran/9-mieng-ga-mcnuggets-tm.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/x5-ga-ran.png.pagespeed.ic.y4dtFvNk2D.png",
+          "name": "5 miếng gà rán",
+          "price": 176000,
+          "image_path": "ga-ran/5-mieng-ga-ran.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/x1-ga-ran.png.pagespeed.ic.wgk52i_J0P.png",
+          "name": "1 miếng gà rán - 183 Kcal",
+          "price": 37000,
+          "image_path": "ga-ran/1-mieng-ga-ran-183-kcal.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/x3-ga-ran.png.pagespeed.ic.sEkMw1e00h.png",
+          "name": "3 miếng gà rán",
+          "price": 103000,
+          "image_path": "ga-ran/3-mieng-ga-ran.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/x9-ga-ran.png.pagespeed.ic.M6Ntbcj9wt.png",
+          "name": "9 miếng gà rán",
+          "price": 289000,
+          "image_path": "ga-ran/9-mieng-ga-ran.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/2-ga-ran.png.pagespeed.ce.YZuH-SOCAl.png",
+          "name": "Phần ăn 2 miếng gà rán",
+          "price": 92000,
+          "image_path": "ga-ran/phan-an-2-mieng-ga-ran.png"
+        }
+    ],
+
+    "Kem" : [
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/desserts/xmcdonalds_cone.png.pagespeed.ic.mkjVTAmDvu.png",
+          "name": "Kem ốc quế",
+          "price": 10000,
+          "image_path": "kem/kem-oc-que.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/desserts/xhotfudge_mcsundae.png.pagespeed.ic.1w5gxKyOFs.png",
+          "name": "Kem McSundae™ xốt Sôcôla",
+          "price": 29000,
+          "image_path": "kem/kem-mcsundae-tm-xot-socola.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/desserts/xstrawberry-mcsundae.png.pagespeed.ic.PXP4p5pkmL.png",
+          "name": "Kem McSundae™  xốt Dâu",
+          "price": 29000,
+          "image_path": "kem/kem-mcsundae-tm-xot-dau.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/desserts/xmcfmc.png.pagespeed.ic.tlt8x0GAf2.png",
+          "name": "Kem Xay Bánh Oreo™ Trà Xanh",
+          "price": 39000,
+          "image_path": "kem/kem-xay-banh-oreo-tm-tra-xanh.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/desserts/xoreo_mcflurry.png.pagespeed.ic.tRZ_8gaQyC.png",
+          "name": "Kem Xay Bánh Oreo™",
+          "price": 39000,
+          "image_path": "kem/kem-xay-banh-oreo-tm.png"
+        }
+    ],
+
+
+    "Món ăn nhẹ" : [
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/xregular_world_famous_fries.png.pagespeed.ic.6MNzRoFiep.png",
+          "name": "Khoai Tây Chiên (size nhỏ) - 206 Kcal",
+          "price": 19000,
+          "image_path": "mon-an-nhe/khoai-tay-chien-size-nho-206-kcal.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/desserts/xhotfudge_mcsundae.png.pagespeed.ic.1w5gxKyOFs.png",
+          "name": "Kem McSundae™ xốt Sôcôla",
+          "price": 29000,
+          "image_path": "mon-an-nhe/kem-mcsundae-tm-xot-socola.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/desserts/xstrawberry-mcsundae.png.pagespeed.ic.PXP4p5pkmL.png",
+          "name": "Kem McSundae™  xốt Dâu",
+          "price": 29000,
+          "image_path": "mon-an-nhe/kem-mcsundae-tm-xot-dau.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/xmedium_world_famous_fries.png.pagespeed.ic.YuvGydq3qk.png",
+          "name": "Khoai Tây Chiên  (size vừa)",
+          "price": 29000,
+          "image_path": "mon-an-nhe/khoai-tay-chien-size-vua.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/ga-ran/xlarge_world_famous_fries.png.pagespeed.ic.ztb6MALsMH.png",
+          "name": "Khoai Tây Chiên  (size lớn)",
+          "price": 39000,
+          "image_path": "mon-an-nhe/khoai-tay-chien-size-lon.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xsausagebg_bb.png.pagespeed.ic.CvQAjE6liA.png",
+          "name": "Burger Xúc Xích - 337 Kcal",
+          "price": 36000,
+          "image_path": "mon-an-nhe/burger-xuc-xich-337-kcal.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/mon-an-chung/xcheesebg_bb-min.png.pagespeed.ic.7K5ZZMxSJo.png",
+          "name": "Burger bò phô-mai - 323 Kcal",
+          "price": 46000,
+          "image_path": "mon-an-nhe/burger-bo-pho-mai-323-kcal.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/mon-an-chung/xsalad500.png.pagespeed.ic.H4sumxKLwQ.png",
+          "name": "Salad lắc",
+          "price": 35000,
+          "image_path": "mon-an-nhe/salad-lac.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/mon-an-chung/xham_bb.png.pagespeed.ic.WoBZUlW5Cb.png",
+          "name": "Burger bò truyền thống",
+          "price": 36000,
+          "image_path": "mon-an-nhe/burger-bo-truyen-thong.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/burgers/xchickbg.png.pagespeed.ic.F1V-ggbvmj.png",
+          "name": "Burger Gà Nhỏ Mayo",
+          "price": 36000,
+          "image_path": "mon-an-nhe/burger-ga-nho-mayo.png"
+        }
+    ],
+
+    "Thức uống lạnh" : [
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/beverage/xmilk_300x300.png.pagespeed.ic.junBw8qLAM.png",
+          "name": "Sữa tươi",
+          "price": 22000,
+          "image_path": "thuc-uong-lanh/sua-tuoi.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/beverage/xhero-pdt-Fanta-201703_0.png.pagespeed.ic.z2a9V-fxGl.png",
+          "name": "Fanta®",
+          "price": 22000,
+          "image_path": "thuc-uong-lanh/fanta-r.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/beverage/mcd-food-beverages-soft-drinks-coke.png.pagespeed.ce.JAG9njwZ8A.png",
+          "name": "Coca-Cola® - 150 Kcal",
+          "price": 22000,
+          "image_path": "thuc-uong-lanh/coca-cola-r-150-kcal.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/beverage/xdasani_water.png.pagespeed.ic.7J33Md8yOT.png",
+          "name": "Nước suối",
+          "price": 22000,
+          "image_path": "thuc-uong-lanh/nuoc-suoi.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/beverage/xProduct_thumb_Sprite.png.pagespeed.ic.ce9-LyS-fm.png",
+          "name": "Sprite®",
+          "price": 22000,
+          "image_path": "thuc-uong-lanh/sprite-r.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food/beverage/xmilo.png.pagespeed.ic.14SzUsBPZl.png",
+          "name": "Milo™ - 110 Kcal",
+          "price": 22000,
+          "image_path": "thuc-uong-lanh/milo-tm-110-kcal.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xiced_milkVNcoffee.png.pagespeed.ic.VSftC4BDIB.png",
+          "name": "Cà phê sữa đá Việt Nam",
+          "price": 35000,
+          "image_path": "thuc-uong-lanh/ca-phe-sua-da-viet-nam.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/xlychee.png.pagespeed.ic.OgqamFWlQi.png",
+          "name": "Trà Vải",
+          "price": 49000,
+          "image_path": "thuc-uong-lanh/tra-vai.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xicedlatte.png.pagespeed.ic.rNtMwMNmoo.png",
+          "name": "Cà phê Latte đá",
+          "price": 55000,
+          "image_path": "thuc-uong-lanh/ca-phe-latte-da.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xCSO_MilkCreamTea_S.png.pagespeed.ic.OutUM60EHj.png",
+          "name": "Trà Kem Sữa",
+          "price": 49000,
+          "image_path": "thuc-uong-lanh/tra-kem-sua.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xiced_VNcoffee.png.pagespeed.ic.g5MmVK6w3r.png",
+          "name": "Cà phê đen đá Việt Nam",
+          "price": 35000,
+          "image_path": "thuc-uong-lanh/ca-phe-den-da-viet-nam.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xCSO_PeachTea_S.png.pagespeed.ic.wC-b8ekze9.png",
+          "name": "Trà Đào",
+          "price": 49000,
+          "image_path": "thuc-uong-lanh/tra-dao.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xicedamericano.png.pagespeed.ic.pM-R6TbxGK.png",
+          "name": "Cà phê Americano đá",
+          "price": 45000,
+          "image_path": "thuc-uong-lanh/ca-phe-americano-da.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xtacmuoi.png.pagespeed.ic.1u5mQtasZq.png",
+          "name": "Tắc muối mơ ngâm hạt chia",
+          "price": 39000,
+          "image_path": "thuc-uong-lanh/tac-muoi-mo-ngam-hat-chia.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xicedmatcha.png.pagespeed.ic.c0fXM1C6KS.png",
+          "name": "Matcha Latte đá",
+          "price": 69000,
+          "image_path": "thuc-uong-lanh/matcha-latte-da.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xyogurt-dau.png.pagespeed.ic.qgXm1rrO3j.png",
+          "name": "Sữa chua Dâu",
+          "price": 59000,
+          "image_path": "thuc-uong-lanh/sua-chua-dau.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/food-categories/xyogurt-kiwi.png.pagespeed.ic.bhyPcs7DoE.png",
+          "name": "Sữa chua Kiwi",
+          "price": 59000,
+          "image_path": "thuc-uong-lanh/sua-chua-kiwi.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xfrappematcha.png.pagespeed.ic.tCpm4rkPVX.png",
+          "name": "Trà xanh đá xay",
+          "price": 79000,
+          "image_path": "thuc-uong-lanh/tra-xanh-da-xay.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xcaramelfrappe.png.pagespeed.ic.SG_gIwVcxI.png",
+          "name": "Caramen đá xay",
+          "price": 69000,
+          "image_path": "thuc-uong-lanh/caramen-da-xay.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xmochafrappe.png.pagespeed.ic.HnudTmNccZ.png",
+          "name": "Mocha Đá Xay",
+          "price": 69000,
+          "image_path": "thuc-uong-lanh/mocha-da-xay.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xlattefrappe.png.pagespeed.ic.3Ufzg7MMp6.png",
+          "name": "Latte Đá Xay",
+          "price": 69000,
+          "image_path": "thuc-uong-lanh/latte-da-xay.png"
+        }
+    ],
+
+
+    "Thức uống nóng" : [
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xamericano.png.pagespeed.ic.Hk0u7IMaUA.png",
+          "name": "Americano",
+          "price": 39000,
+          "image_path": "thuc-uong-nong/americano.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xhotlatte.png.pagespeed.ic.HQDqTf23lC.png",
+          "name": "Latte nóng",
+          "price": 49000,
+          "image_path": "thuc-uong-nong/latte-nong.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xhotchoco.png.pagespeed.ic.lr8gMy_pT5.png",
+          "name": "Sô cô la nóng",
+          "price": 49000,
+          "image_path": "thuc-uong-nong/so-co-la-nong.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xmocha.png.pagespeed.ic.RBG3aXhp47.png",
+          "name": "Cà phê Mocha",
+          "price": 59000,
+          "image_path": "thuc-uong-nong/ca-phe-mocha.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xhotmatcha.png.pagespeed.ic.kTQlZ3ETaT.png",
+          "name": "Matcha Latte Nóng",
+          "price": 60000,
+          "image_path": "thuc-uong-nong/matcha-latte-nong.png"
+        },
+        {
+          "image_url": "https://mcdonalds.vn/uploads/2018/mccafe/xcappucino.png.pagespeed.ic.9cq4NYaj6Q.png",
+          "name": "Cappucino",
+          "price": 49000,
+          "image_path": "thuc-uong-nong/cappucino.png"
+        }
+    ]
+}

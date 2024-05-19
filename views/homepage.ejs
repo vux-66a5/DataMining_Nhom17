@@ -27,7 +27,7 @@
                 <div class="col-lg-2">
                     <div class="header-logo">
                         <a href="/homepage">
-                            <img src="/images/logo.png" width="160" height="36" alt="Logo">
+                            <img src="/images/logo.png" width="60" height="60" alt="Logo">
                         </a>
                     </div>
                 </div>
@@ -80,8 +80,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="sec-title text-center mb-5">
-                            <p class="sec-sub-title mb-3">our menu</p>
-                            <h2 class="h2-title">wake up early, <span>eat fresh & healthy</span></h2>
+                            <p class="sec-sub-title mb-3">Thực đơn</p>
+                            <h2 class="h2-title">Tươi ngon tròn vị</h2>
                             <div class="sec-title-shape mb-4">
                                 <img src="/images/title-shape.svg" alt="">
                             </div>
@@ -92,32 +92,36 @@
                     <div class="row">
                         <div class="col-lg-12 m-auto">
                             <div class="menu-tab text-center">
-                                <ul class="filters">
+                                <ul class="filters"  style="padding: 2px">
                                     <div class="filter-active"></div>
-                                    <li class="filter"
+                                    <li class="filter" style="padding: 17px"
                                         data-filter=".all, .breakfast, .lunch, .dinner, .beverages, .desserts">
                                         <img src="/images/menu-1.png" alt="">
                                         All
                                     </li>
-                                    <li class="filter" data-filter=".breakfast">
+                                    <li class="filter" style="padding: 17px" data-filter=".burger">
                                         <img src="/images/menu-2.png" alt="">
-                                        Breakfast
+                                        Bánh burger
                                     </li>
-                                    <li class="filter" data-filter=".lunch">
+                                    <li class="filter"  style="padding: 17px" data-filter=".combo">
                                         <img src="/images/menu-3.png" alt="">
-                                        Lunch
+                                        Combo
                                     </li>
-                                    <li class="filter" data-filter=".dinner">
+                                    <li class="filter" style="padding: 17px" data-filter=".chicken">
                                         <img src="/images/menu-4.png" alt="">
-                                        Dinner
+                                        Gà rán
                                     </li>
-                                    <li class="filter" data-filter=".beverages">
+                                    <li class="filter" style="padding: 17px" data-filter=".snackfood">
                                         <img src="/images/menu-5.png" alt="">
-                                        Beverages
+                                        Món ăn nhẹ
                                     </li>
-                                    <li class="filter" data-filter=".desserts">
+                                    <li class="filter" style="padding: 17px"  data-filter=".drink">
                                         <img src="/images/menu-6.png" alt="">
-                                        Desserts
+                                        Thức uống
+                                    </li>
+                                    <li class="filter" style="padding: 17px" data-filter=".dessert">
+                                        <img src="/images/menu-6.png" alt="">
+                                        Tráng miệng
                                     </li>
                                 </ul>
                             </div>
@@ -133,23 +137,26 @@
                                 <div class="dish-box text-center">
                                     <div class="dist-img">
                                         <img src="/images/dish/<%= items[i].item_img %>"
-                                            alt="<%= items[i].item_name %>">
+                                             alt="<%= items[i].item_name %>"
+                                             width="250px"
+                                             height="250px">
                                     </div>
-                                    <div class="dish-rating">
+                                    
+                                    <!-- <div class="dish-rating">
                                         <%= items[i].item_rating %>
                                             <i class="uil uil-star"></i>
-                                    </div>
+                                    </div> -->
                                     <div class="dish-title">
-                                        <h3 class="h3-title">
+                                        <h3 class="" style="font-size: 20px">
                                             <%= items[i].item_name %>
                                         </h3>
-                                        <p>
+                                        <!-- <p>
                                             <%= items[i].item_calories %>
-                                        </p>
+                                        </p> -->
                                     </div>
                                     <div class="dish-info">
                                         <ul>
-                                            <li>
+                                            <!-- <li>
                                                 <p>Type</p>
                                                 <b>
                                                     <%= items[i].item_type %>
@@ -160,13 +167,13 @@
                                                 <b>
                                                     <%= items[i].item_serving %>
                                                 </b>
-                                            </li>
+                                            </li> -->
                                         </ul>
                                     </div>
                                     <div class="dist-bottom-row">
-                                        <ul>
+                                        <ul >
                                             <li>
-                                                <b>₹ <%= items[i].item_price %></b>
+                                                <b> <%= items[i].item_price %> đ</b>
                                             </li>
                                             <li>
                                                 <button class="dish-add-btn" id="btn<%= items[i].item_id %>"
