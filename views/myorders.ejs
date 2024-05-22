@@ -58,12 +58,12 @@
                             </ul>
                         </nav>
                         <div class="header-right">
-                            <form action="#" class="header-search-form for-des">
-                                <input type="search" class="form-input" placeholder="Search Here...">
-                                <button type="submit">
-                                    <i class="uil uil-search"></i>
-                                </button>
-                            </form>
+<!--                             <form action="#" class="header-search-form for-des"> -->
+<!--                                 <input type="search" class="form-input" placeholder="Search Here..."> -->
+<!--                                 <button type="submit"> -->
+<!--                                     <i class="uil uil-search"></i> -->
+<!--                                 </button> -->
+<!--                             </form> -->
                             <a href="javascript:void(0)" class="header-btn header-cart">
                                 <i class="uil uil-shopping-bag"></i>
                                 <span class="cart-number" id="cart-number-count">
@@ -163,13 +163,13 @@
                                                         <td>
                                                             <%= items[i].item_name %>
                                                         </td>
-                                                        <td>₹ <%= items[i].price %></span></td>
+                                                        <td><%= items[i].price %> VND</span></td>
                                                         <td>
                                                             <%= items[i].quantity %>
                                                         </td>
-                                                        <td>₹<%= items[i].price*items[i].quantity %>
+                                                        <td><%= items[i].price*items[i].quantity %> VND
                                                         </td>
-                                                        <td>₹<%= items[i].order_id %>
+                                                        <td><%= items[i].order_id %>
                                                         </td>
                                                         <td>
                                                             <%= items[i].datetime %>

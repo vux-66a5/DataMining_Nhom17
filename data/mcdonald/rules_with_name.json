@@ -1,0 +1,4098 @@
+[
+    {
+        "antecedents": [
+            "1 miếng gà rán - 183 Kcal"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.02713,
+        "consequent support": 0.17618,
+        "support": 0.00728,
+        "confidence": 0.26833763361592333,
+        "lift": 1.5230879419680061,
+        "leverage": 0.0025002365999999996,
+        "conviction": 1.1259565037783374,
+        "zhangs_metric": 0.35301642912885933
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "1 miếng gà rán - 183 Kcal"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.02713,
+        "support": 0.00728,
+        "confidence": 0.04132137586559201,
+        "lift": 1.5230879419680061,
+        "leverage": 0.0025002365999999996,
+        "conviction": 1.0148030586145649,
+        "zhangs_metric": 0.4168860836185008
+    },
+    {
+        "antecedents": [
+            "1 miếng gà rán - 183 Kcal"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.02713,
+        "consequent support": 0.1763,
+        "support": 0.0071,
+        "confidence": 0.2617029119056395,
+        "lift": 1.4844181049667582,
+        "leverage": 0.002316981,
+        "conviction": 1.1156755366949576,
+        "zhangs_metric": 0.3354357232854092
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "1 miếng gà rán - 183 Kcal"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.02713,
+        "support": 0.0071,
+        "confidence": 0.04027226318774815,
+        "lift": 1.4844181049667582,
+        "leverage": 0.002316981,
+        "conviction": 1.0136937411347517,
+        "zhangs_metric": 0.39618228980536124
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "1 miếng gà rán - 183 Kcal"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.02713,
+        "support": 0.00539,
+        "confidence": 0.0384917517674784,
+        "lift": 1.4187892284363581,
+        "leverage": 0.0015909861,
+        "conviction": 1.011816593137255,
+        "zhangs_metric": 0.34323717509841944
+    },
+    {
+        "antecedents": [
+            "1 miếng gà rán - 183 Kcal"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.02713,
+        "consequent support": 0.14003,
+        "support": 0.00539,
+        "confidence": 0.19867305565794321,
+        "lift": 1.4187892284363581,
+        "leverage": 0.0015909861,
+        "conviction": 1.0731824333026678,
+        "zhangs_metric": 0.3034050525449317
+    },
+    {
+        "antecedents": [
+            "1 miếng gà rán - 183 Kcal"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.02713,
+        "consequent support": 0.13842,
+        "support": 0.00556,
+        "confidence": 0.2049391817176557,
+        "lift": 1.480560480549456,
+        "leverage": 0.0018046654000000001,
+        "conviction": 1.0836655261937875,
+        "zhangs_metric": 0.333631531359451
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "1 miếng gà rán - 183 Kcal"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.02713,
+        "support": 0.00556,
+        "confidence": 0.04016760583730675,
+        "lift": 1.480560480549456,
+        "leverage": 0.0018046654000000001,
+        "conviction": 1.0135832108986904,
+        "zhangs_metric": 0.37672660450993417
+    },
+    {
+        "antecedents": [
+            "10 Miếng Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.02788,
+        "consequent support": 0.17618,
+        "support": 0.00688,
+        "confidence": 0.2467718794835007,
+        "lift": 1.400680437526965,
+        "leverage": 0.0019681016,
+        "conviction": 1.0937191238095239,
+        "zhangs_metric": 0.2942653983765044
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "10 Miếng Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.02788,
+        "support": 0.00688,
+        "confidence": 0.039050970598251786,
+        "lift": 1.400680437526965,
+        "leverage": 0.0019681016,
+        "conviction": 1.0116249356172475,
+        "zhangs_metric": 0.3472375993175299
+    },
+    {
+        "antecedents": [
+            "10 Miếng Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.02788,
+        "consequent support": 0.1763,
+        "support": 0.00665,
+        "confidence": 0.2385222381635581,
+        "lift": 1.3529338523174026,
+        "leverage": 0.0017347559999999996,
+        "conviction": 1.0817124823363164,
+        "zhangs_metric": 0.2683470805145192
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "10 Miếng Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.02788,
+        "support": 0.00665,
+        "confidence": 0.03771979580260918,
+        "lift": 1.3529338523174026,
+        "leverage": 0.0017347559999999996,
+        "conviction": 1.0102254995579134,
+        "zhangs_metric": 0.3166997255187257
+    },
+    {
+        "antecedents": [
+            "10 Miếng Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.02788,
+        "consequent support": 0.14003,
+        "support": 0.00541,
+        "confidence": 0.19404591104734578,
+        "lift": 1.3857452763503948,
+        "leverage": 0.0015059636000000006,
+        "conviction": 1.0670210769915442,
+        "zhangs_metric": 0.28635009499219016
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "10 Miếng Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.02788,
+        "support": 0.00541,
+        "confidence": 0.038634578304649,
+        "lift": 1.3857452763503948,
+        "leverage": 0.0015059636000000006,
+        "conviction": 1.01118677462487,
+        "zhangs_metric": 0.32369344784563164
+    },
+    {
+        "antecedents": [
+            "10 Miếng Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.02788,
+        "consequent support": 0.13842,
+        "support": 0.00576,
+        "confidence": 0.20659971305595412,
+        "lift": 1.4925568057791803,
+        "leverage": 0.001900850400000001,
+        "conviction": 1.0859335623869801,
+        "zhangs_metric": 0.3394732646175371
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "10 Miếng Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.02788,
+        "support": 0.00576,
+        "confidence": 0.041612483745123545,
+        "lift": 1.4925568057791803,
+        "leverage": 0.001900850400000001,
+        "conviction": 1.014328738127544,
+        "zhangs_metric": 0.3830274031430629
+    },
+    {
+        "antecedents": [
+            "10 Miếng Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.02788,
+        "consequent support": 0.14081,
+        "support": 0.0059,
+        "confidence": 0.21162123385939743,
+        "lift": 1.5028849787614336,
+        "leverage": 0.0019742172000000004,
+        "conviction": 1.0898187989080983,
+        "zhangs_metric": 0.34420964978167595
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "10 Miếng Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.02788,
+        "support": 0.0059,
+        "confidence": 0.04190043320786876,
+        "lift": 1.5028849787614333,
+        "leverage": 0.0019742172000000004,
+        "conviction": 1.0146335868356682,
+        "zhangs_metric": 0.38945179150800496
+    },
+    {
+        "antecedents": [
+            "20 miếng  Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.02737,
+        "consequent support": 0.17618,
+        "support": 0.00693,
+        "confidence": 0.2531969309462916,
+        "lift": 1.437149114237096,
+        "leverage": 0.0021079534000000002,
+        "conviction": 1.1031288356164384,
+        "zhangs_metric": 0.31273760813256823
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "20 miếng  Gà McNuggets™"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.02737,
+        "support": 0.00693,
+        "confidence": 0.039334771256669315,
+        "lift": 1.437149114237096,
+        "leverage": 0.0021079534000000002,
+        "conviction": 1.0124546729689807,
+        "zhangs_metric": 0.36922869048818896
+    },
+    {
+        "antecedents": [
+            "20 miếng  Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.02737,
+        "consequent support": 0.1763,
+        "support": 0.00681,
+        "confidence": 0.24881256850566316,
+        "lift": 1.4113021469408007,
+        "leverage": 0.0019846689999999997,
+        "conviction": 1.096530593385214,
+        "zhangs_metric": 0.2996355326037221
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "20 miếng  Gà McNuggets™"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.02737,
+        "support": 0.00681,
+        "confidence": 0.038627339761769706,
+        "lift": 1.4113021469408005,
+        "leverage": 0.0019846689999999997,
+        "conviction": 1.0117096524868723,
+        "zhangs_metric": 0.353811470288161
+    },
+    {
+        "antecedents": [
+            "20 miếng  Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.02737,
+        "consequent support": 0.13842,
+        "support": 0.00557,
+        "confidence": 0.20350748995250276,
+        "lift": 1.4702173815380926,
+        "leverage": 0.0017814446000000007,
+        "conviction": 1.0817176422018349,
+        "zhangs_metric": 0.32882851029444304
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "20 miếng  Gà McNuggets™"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.02737,
+        "support": 0.00557,
+        "confidence": 0.04023984973269759,
+        "lift": 1.4702173815380926,
+        "leverage": 0.0017814446000000007,
+        "conviction": 1.013409443733534,
+        "zhangs_metric": 0.37121158101126317
+    },
+    {
+        "antecedents": [
+            "20 miếng  Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.02737,
+        "consequent support": 0.14081,
+        "support": 0.00571,
+        "confidence": 0.20862257946656923,
+        "lift": 1.4815892299308944,
+        "leverage": 0.0018560303000000004,
+        "conviction": 1.0856893028624193,
+        "zhangs_metric": 0.3341960347891674
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "20 miếng  Gà McNuggets™"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.02737,
+        "support": 0.00571,
+        "confidence": 0.04055109722320858,
+        "lift": 1.4815892299308944,
+        "leverage": 0.0018560303000000004,
+        "conviction": 1.0137381961509992,
+        "zhangs_metric": 0.3783203823566241
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "3 miếng  Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.02782,
+        "support": 0.0071,
+        "confidence": 0.04029969349528891,
+        "lift": 1.4485871134180055,
+        "leverage": 0.0021986723999999997,
+        "conviction": 1.013003740241306,
+        "zhangs_metric": 0.37589785270336296
+    },
+    {
+        "antecedents": [
+            "3 miếng  Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.02782,
+        "consequent support": 0.17618,
+        "support": 0.0071,
+        "confidence": 0.25521207764198417,
+        "lift": 1.4485871134180053,
+        "leverage": 0.0021986723999999997,
+        "conviction": 1.1061135328185328,
+        "zhangs_metric": 0.31853377873859207
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "3 miếng  Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.02782,
+        "support": 0.00683,
+        "confidence": 0.038740782756664774,
+        "lift": 1.392551500958475,
+        "leverage": 0.001925334,
+        "conviction": 1.0113609134360064,
+        "zhangs_metric": 0.342228607801352
+    },
+    {
+        "antecedents": [
+            "3 miếng  Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.02782,
+        "consequent support": 0.1763,
+        "support": 0.00683,
+        "confidence": 0.24550682961897916,
+        "lift": 1.392551500958475,
+        "leverage": 0.001925334,
+        "conviction": 1.0917262505955216,
+        "zhangs_metric": 0.2899604026476307
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "3 miếng  Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.02782,
+        "support": 0.00537,
+        "confidence": 0.03834892523030779,
+        "lift": 1.3784660399104167,
+        "leverage": 0.0014743654000000002,
+        "conviction": 1.010948799940591,
+        "zhangs_metric": 0.3192622305541862
+    },
+    {
+        "antecedents": [
+            "3 miếng  Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.02782,
+        "consequent support": 0.14003,
+        "support": 0.00537,
+        "confidence": 0.19302659956865562,
+        "lift": 1.3784660399104165,
+        "leverage": 0.0014743654000000002,
+        "conviction": 1.0656732917594656,
+        "zhangs_metric": 0.28241266062836456
+    },
+    {
+        "antecedents": [
+            "3 miếng  Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.02782,
+        "consequent support": 0.13842,
+        "support": 0.00574,
+        "confidence": 0.20632638389647737,
+        "lift": 1.4905821694587298,
+        "leverage": 0.0018891556000000006,
+        "conviction": 1.0855595833333334,
+        "zhangs_metric": 0.338539349368419
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "3 miếng  Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.02782,
+        "support": 0.00574,
+        "confidence": 0.04146799595434186,
+        "lift": 1.4905821694587298,
+        "leverage": 0.0018891556000000006,
+        "conviction": 1.0142384353331324,
+        "zhangs_metric": 0.38199724305228727
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "3 miếng  Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.02782,
+        "support": 0.0056,
+        "confidence": 0.03976990270577374,
+        "lift": 1.4295435911493077,
+        "leverage": 0.0016826658000000001,
+        "conviction": 1.0124448324828046,
+        "zhangs_metric": 0.34972012676391223
+    },
+    {
+        "antecedents": [
+            "3 miếng  Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.02782,
+        "consequent support": 0.14081,
+        "support": 0.0056,
+        "confidence": 0.201294033069734,
+        "lift": 1.4295435911493077,
+        "leverage": 0.0016826658000000001,
+        "conviction": 1.0757275337533754,
+        "zhangs_metric": 0.3090744879696
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "3 miếng gà rán"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.02735,
+        "support": 0.00682,
+        "confidence": 0.03871040980815075,
+        "lift": 1.4153714737897898,
+        "leverage": 0.0020014769999999998,
+        "conviction": 1.0118178849787436,
+        "zhangs_metric": 0.35623279463932095
+    },
+    {
+        "antecedents": [
+            "3 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.02735,
+        "consequent support": 0.17618,
+        "support": 0.00682,
+        "confidence": 0.2493601462522852,
+        "lift": 1.41537147378979,
+        "leverage": 0.0020014769999999998,
+        "conviction": 1.0974903555772042,
+        "zhangs_metric": 0.3017238481260118
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "3 miếng gà rán"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.02735,
+        "support": 0.00718,
+        "confidence": 0.040726035167328416,
+        "lift": 1.4890689275074376,
+        "leverage": 0.0023581949999999996,
+        "conviction": 1.013943915562914,
+        "zhangs_metric": 0.3987366942355016
+    },
+    {
+        "antecedents": [
+            "3 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.02735,
+        "consequent support": 0.1763,
+        "support": 0.00718,
+        "confidence": 0.26252285191956126,
+        "lift": 1.4890689275074376,
+        "leverage": 0.0023581949999999996,
+        "conviction": 1.116915964303421,
+        "zhangs_metric": 0.33767482140727156
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "3 miếng gà rán"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.02735,
+        "support": 0.00534,
+        "confidence": 0.03813468542455189,
+        "lift": 1.3943212221042738,
+        "leverage": 0.0015101795000000006,
+        "conviction": 1.011212261489346,
+        "zhangs_metric": 0.32885466913117223
+    },
+    {
+        "antecedents": [
+            "3 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.02735,
+        "consequent support": 0.14003,
+        "support": 0.00534,
+        "confidence": 0.19524680073126144,
+        "lift": 1.3943212221042738,
+        "leverage": 0.0015101795000000006,
+        "conviction": 1.0686133348477964,
+        "zhangs_metric": 0.2907573637102084
+    },
+    {
+        "antecedents": [
+            "3 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.02735,
+        "consequent support": 0.13842,
+        "support": 0.00507,
+        "confidence": 0.1853747714808044,
+        "lift": 1.3392195598960006,
+        "leverage": 0.0012842130000000002,
+        "conviction": 1.057639721723519,
+        "zhangs_metric": 0.2604189068052661
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "3 miếng gà rán"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.02735,
+        "support": 0.00507,
+        "confidence": 0.03662765496315561,
+        "lift": 1.3392195598960006,
+        "leverage": 0.0012842130000000002,
+        "conviction": 1.0096303937007873,
+        "zhangs_metric": 0.293990633143924
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "3 miếng gà rán"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.02735,
+        "support": 0.00598,
+        "confidence": 0.0424685746750941,
+        "lift": 1.552781523769437,
+        "leverage": 0.0021288465000000004,
+        "conviction": 1.015789115923756,
+        "zhangs_metric": 0.4143372222596994
+    },
+    {
+        "antecedents": [
+            "3 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.02735,
+        "consequent support": 0.14081,
+        "support": 0.00598,
+        "confidence": 0.21864716636197443,
+        "lift": 1.5527815237694371,
+        "leverage": 0.0021288465000000004,
+        "conviction": 1.0996184604585868,
+        "zhangs_metric": 0.36600462447263776
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "5 miếng gà rán"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.0268,
+        "support": 0.0071,
+        "confidence": 0.04029969349528891,
+        "lift": 1.503719906540631,
+        "leverage": 0.0023783759999999998,
+        "conviction": 1.0140665720369055,
+        "zhangs_metric": 0.40662102790812016
+    },
+    {
+        "antecedents": [
+            "5 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.0268,
+        "consequent support": 0.17618,
+        "support": 0.0071,
+        "confidence": 0.26492537313432835,
+        "lift": 1.5037199065406308,
+        "leverage": 0.0023783759999999998,
+        "conviction": 1.1207297461928936,
+        "zhangs_metric": 0.3442072905993296
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "5 miếng gà rán"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.0268,
+        "support": 0.00653,
+        "confidence": 0.0370391378332388,
+        "lift": 1.3820573818372686,
+        "leverage": 0.00180516,
+        "conviction": 1.010632974023679,
+        "zhangs_metric": 0.3356088883666703
+    },
+    {
+        "antecedents": [
+            "5 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.0268,
+        "consequent support": 0.1763,
+        "support": 0.00653,
+        "confidence": 0.24365671641791045,
+        "lift": 1.3820573818372686,
+        "leverage": 0.00180516,
+        "conviction": 1.0890557474099654,
+        "zhangs_metric": 0.284053679970845
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "5 miếng gà rán"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.0268,
+        "support": 0.00542,
+        "confidence": 0.03870599157323431,
+        "lift": 1.4442534169117278,
+        "leverage": 0.0016671960000000006,
+        "conviction": 1.012385379986628,
+        "zhangs_metric": 0.35768775423256643
+    },
+    {
+        "antecedents": [
+            "5 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.0268,
+        "consequent support": 0.14003,
+        "support": 0.00542,
+        "confidence": 0.20223880597014926,
+        "lift": 1.444253416911728,
+        "leverage": 0.0016671960000000006,
+        "conviction": 1.07797923292797,
+        "zhangs_metric": 0.3160714529463421
+    },
+    {
+        "antecedents": [
+            "5 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.0268,
+        "consequent support": 0.13842,
+        "support": 0.00507,
+        "confidence": 0.18917910447761194,
+        "lift": 1.366703543401329,
+        "leverage": 0.0013603439999999999,
+        "conviction": 1.0626021168890933,
+        "zhangs_metric": 0.27570121869657105
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "5 miếng gà rán"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.0268,
+        "support": 0.00507,
+        "confidence": 0.03662765496315561,
+        "lift": 1.3667035434013288,
+        "leverage": 0.0013603439999999999,
+        "conviction": 1.0102013048368952,
+        "zhangs_metric": 0.31141905108695994
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "5 miếng gà rán"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.0268,
+        "support": 0.00562,
+        "confidence": 0.039911938072580075,
+        "lift": 1.4892514206186596,
+        "leverage": 0.0018462920000000002,
+        "conviction": 1.013657016051483,
+        "zhangs_metric": 0.38236211802401493
+    },
+    {
+        "antecedents": [
+            "5 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.0268,
+        "consequent support": 0.14081,
+        "support": 0.00562,
+        "confidence": 0.20970149253731343,
+        "lift": 1.4892514206186596,
+        "leverage": 0.0018462920000000002,
+        "conviction": 1.0871714825306893,
+        "zhangs_metric": 0.3375685451963147
+    },
+    {
+        "antecedents": [
+            "6 Miếng Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.02769,
+        "consequent support": 0.17618,
+        "support": 0.00681,
+        "confidence": 0.24593716143011918,
+        "lift": 1.3959425668641114,
+        "leverage": 0.0019315757999999999,
+        "conviction": 1.0925084195402297,
+        "zhangs_metric": 0.2917157591506162
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "6 Miếng Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.02769,
+        "support": 0.00681,
+        "confidence": 0.03865364967646725,
+        "lift": 1.3959425668641117,
+        "leverage": 0.0019315757999999999,
+        "conviction": 1.0114044742280215,
+        "zhangs_metric": 0.34429626590728035
+    },
+    {
+        "antecedents": [
+            "6 Miếng Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.02769,
+        "consequent support": 0.1763,
+        "support": 0.00711,
+        "confidence": 0.25677139761646806,
+        "lift": 1.4564458174501873,
+        "leverage": 0.0022282529999999995,
+        "conviction": 1.1082727405247814,
+        "zhangs_metric": 0.3223221466543613
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "6 Miếng Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.02769,
+        "support": 0.00711,
+        "confidence": 0.04032898468519568,
+        "lift": 1.4564458174501873,
+        "leverage": 0.0022282529999999995,
+        "conviction": 1.0131701223476564,
+        "zhangs_metric": 0.3804747437337648
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "6 Miếng Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.02769,
+        "support": 0.00516,
+        "confidence": 0.03684924659001643,
+        "lift": 1.330778136150828,
+        "leverage": 0.0012825693,
+        "conviction": 1.009509670794098,
+        "zhangs_metric": 0.2890332707658001
+    },
+    {
+        "antecedents": [
+            "6 Miếng Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.02769,
+        "consequent support": 0.14003,
+        "support": 0.00516,
+        "confidence": 0.18634886240520043,
+        "lift": 1.330778136150828,
+        "leverage": 0.0012825693,
+        "conviction": 1.0569271770972037,
+        "zhangs_metric": 0.25563857397379963
+    },
+    {
+        "antecedents": [
+            "6 Miếng Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.02769,
+        "consequent support": 0.13842,
+        "support": 0.00536,
+        "confidence": 0.19357168652943302,
+        "lift": 1.398437267226073,
+        "leverage": 0.0015271502000000006,
+        "conviction": 1.068390067174205,
+        "zhangs_metric": 0.2930300851472806
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "6 Miếng Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.02769,
+        "support": 0.00536,
+        "confidence": 0.03872272792948996,
+        "lift": 1.398437267226073,
+        "leverage": 0.0015271502000000006,
+        "conviction": 1.0114771546670676,
+        "zhangs_metric": 0.3306902227182065
+    },
+    {
+        "antecedents": [
+            "6 Miếng Cánh Gà McWings™"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.02769,
+        "consequent support": 0.14081,
+        "support": 0.00627,
+        "confidence": 0.22643553629469124,
+        "lift": 1.6080927227802801,
+        "leverage": 0.002370971100000001,
+        "conviction": 1.1106895938375352,
+        "zhangs_metric": 0.3889143493379527
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "6 Miếng Cánh Gà McWings™"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.02769,
+        "support": 0.00627,
+        "confidence": 0.04452808749378596,
+        "lift": 1.6080927227802801,
+        "leverage": 0.002370971100000001,
+        "conviction": 1.0176227969377138,
+        "zhangs_metric": 0.4401183801077582
+    },
+    {
+        "antecedents": [
+            "6 miếng Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.02711,
+        "consequent support": 0.17618,
+        "support": 0.00692,
+        "confidence": 0.2552563629656953,
+        "lift": 1.4488384774985543,
+        "leverage": 0.0021437602,
+        "conviction": 1.1061793065874195,
+        "zhangs_metric": 0.31842442251044306
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "6 miếng Gà McNuggets™"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.02711,
+        "support": 0.00692,
+        "confidence": 0.03927801112498581,
+        "lift": 1.4488384774985543,
+        "leverage": 0.0021437602,
+        "conviction": 1.012665486234196,
+        "zhangs_metric": 0.3760432332502063
+    },
+    {
+        "antecedents": [
+            "6 miếng Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.02711,
+        "consequent support": 0.1763,
+        "support": 0.00681,
+        "confidence": 0.25119881962375507,
+        "lift": 1.4248373206112028,
+        "leverage": 0.002030507,
+        "conviction": 1.1000249753694582,
+        "zhangs_metric": 0.30647400212114595
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "6 miếng Gà McNuggets™"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.02711,
+        "support": 0.00681,
+        "confidence": 0.038627339761769706,
+        "lift": 1.4248373206112028,
+        "leverage": 0.002030507,
+        "conviction": 1.011980099120892,
+        "zhangs_metric": 0.3619831151191474
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "6 miếng Gà McNuggets™"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.02711,
+        "support": 0.00568,
+        "confidence": 0.04056273655645219,
+        "lift": 1.4962278331409884,
+        "leverage": 0.0018837867000000008,
+        "conviction": 1.0140214864160775,
+        "zhangs_metric": 0.38565599733498745
+    },
+    {
+        "antecedents": [
+            "6 miếng Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.02711,
+        "consequent support": 0.14003,
+        "support": 0.00568,
+        "confidence": 0.2095167834747326,
+        "lift": 1.4962278331409884,
+        "leverage": 0.0018837867000000008,
+        "conviction": 1.087904185720952,
+        "zhangs_metric": 0.34089423062028507
+    },
+    {
+        "antecedents": [
+            "6 miếng Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.02711,
+        "consequent support": 0.13842,
+        "support": 0.00533,
+        "confidence": 0.19660641829583178,
+        "lift": 1.4203613516531701,
+        "leverage": 0.0015774338000000003,
+        "conviction": 1.0724257943067035,
+        "zhangs_metric": 0.3042006893177996
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "6 miếng Gà McNuggets™"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.02711,
+        "support": 0.00533,
+        "confidence": 0.03850599624331744,
+        "lift": 1.4203613516531703,
+        "leverage": 0.0015774338000000003,
+        "conviction": 1.0118523841009843,
+        "zhangs_metric": 0.3435012519213469
+    },
+    {
+        "antecedents": [
+            "6 miếng Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.02711,
+        "consequent support": 0.14081,
+        "support": 0.00517,
+        "confidence": 0.19070453707119145,
+        "lift": 1.3543394437269474,
+        "leverage": 0.0013526409000000007,
+        "conviction": 1.0616518185961714,
+        "zhangs_metric": 0.2689231765622507
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "6 miếng Gà McNuggets™"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.02711,
+        "support": 0.00517,
+        "confidence": 0.036716142319437546,
+        "lift": 1.3543394437269476,
+        "leverage": 0.0013526409000000007,
+        "conviction": 1.0099722861987614,
+        "zhangs_metric": 0.3045108407286492
+    },
+    {
+        "antecedents": [
+            "9 miếng  Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.02756,
+        "consequent support": 0.17618,
+        "support": 0.00704,
+        "confidence": 0.25544267053701014,
+        "lift": 1.4498959617267007,
+        "leverage": 0.0021844791999999997,
+        "conviction": 1.1064561013645222,
+        "zhangs_metric": 0.3190894460420086
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "9 miếng  Gà McNuggets™"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.02756,
+        "support": 0.00704,
+        "confidence": 0.039959132705187875,
+        "lift": 1.4498959617267007,
+        "leverage": 0.0021844791999999997,
+        "conviction": 1.0129152134326593,
+        "zhangs_metric": 0.37665429451711646
+    },
+    {
+        "antecedents": [
+            "9 miếng  Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.02756,
+        "consequent support": 0.1763,
+        "support": 0.00712,
+        "confidence": 0.2583454281567489,
+        "lift": 1.465373954377475,
+        "leverage": 0.002261171999999999,
+        "conviction": 1.1106248532289626,
+        "zhangs_metric": 0.3265809068720451
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "9 miếng  Gà McNuggets™"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.02756,
+        "support": 0.00712,
+        "confidence": 0.04038570618264321,
+        "lift": 1.465373954377475,
+        "leverage": 0.002261171999999999,
+        "conviction": 1.0133654805532568,
+        "zhangs_metric": 0.3855534018194143
+    },
+    {
+        "antecedents": [
+            "9 miếng  Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.02756,
+        "consequent support": 0.14003,
+        "support": 0.00558,
+        "confidence": 0.20246734397677793,
+        "lift": 1.4458854815166604,
+        "leverage": 0.0017207732000000002,
+        "conviction": 1.0782881346678799,
+        "zhangs_metric": 0.31712218122126823
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "9 miếng  Gà McNuggets™"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.02756,
+        "support": 0.00558,
+        "confidence": 0.03984860387059916,
+        "lift": 1.4458854815166602,
+        "leverage": 0.0017207732000000002,
+        "conviction": 1.0127986106359241,
+        "zhangs_metric": 0.35859657186507676
+    },
+    {
+        "antecedents": [
+            "9 miếng  Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.02756,
+        "consequent support": 0.13842,
+        "support": 0.00536,
+        "confidence": 0.19448476052249636,
+        "lift": 1.4050336694299694,
+        "leverage": 0.0015451448000000003,
+        "conviction": 1.0696011171171171,
+        "zhangs_metric": 0.29644325982280617
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "9 miếng  Gà McNuggets™"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.02756,
+        "support": 0.00536,
+        "confidence": 0.03872272792948996,
+        "lift": 1.4050336694299697,
+        "leverage": 0.0015451448000000003,
+        "conviction": 1.011612391402375,
+        "zhangs_metric": 0.3345867865805724
+    },
+    {
+        "antecedents": [
+            "9 miếng  Gà McNuggets™"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.02756,
+        "consequent support": 0.14081,
+        "support": 0.00526,
+        "confidence": 0.19085631349782292,
+        "lift": 1.3554173247484052,
+        "leverage": 0.0013792764000000002,
+        "conviction": 1.0618509596412555,
+        "zhangs_metric": 0.26965144164035343
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "9 miếng  Gà McNuggets™"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.02756,
+        "support": 0.00526,
+        "confidence": 0.03735530147006605,
+        "lift": 1.3554173247484052,
+        "leverage": 0.0013792764000000002,
+        "conviction": 1.010175406860937,
+        "zhangs_metric": 0.3051942502924211
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "9 miếng gà rán"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.02659,
+        "support": 0.00674,
+        "confidence": 0.03825632875468271,
+        "lift": 1.4387487309019449,
+        "leverage": 0.0020553738000000004,
+        "conviction": 1.01213039305949,
+        "zhangs_metric": 0.3701677579736924
+    },
+    {
+        "antecedents": [
+            "9 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.02659,
+        "consequent support": 0.17618,
+        "support": 0.00674,
+        "confidence": 0.2534787514103046,
+        "lift": 1.4387487309019447,
+        "leverage": 0.0020553738000000004,
+        "conviction": 1.1035452795969773,
+        "zhangs_metric": 0.3132817644917222
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "9 miếng gà rán"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.02659,
+        "support": 0.00664,
+        "confidence": 0.03766307430516165,
+        "lift": 1.416437544383665,
+        "leverage": 0.0019521829999999997,
+        "conviction": 1.0115064422963576,
+        "zhangs_metric": 0.35693027055411153
+    },
+    {
+        "antecedents": [
+            "9 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.02659,
+        "consequent support": 0.1763,
+        "support": 0.00664,
+        "confidence": 0.2497179390748402,
+        "lift": 1.4164375443836652,
+        "leverage": 0.0019521829999999997,
+        "conviction": 1.097853784461153,
+        "zhangs_metric": 0.30203456288246644
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "9 miếng gà rán"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.02659,
+        "support": 0.00557,
+        "confidence": 0.03977719060201386,
+        "lift": 1.4959454908617473,
+        "leverage": 0.0018466023000000007,
+        "conviction": 1.0137334694332887,
+        "zhangs_metric": 0.3855093145602404
+    },
+    {
+        "antecedents": [
+            "9 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.02659,
+        "consequent support": 0.14003,
+        "support": 0.00557,
+        "confidence": 0.20947724708537047,
+        "lift": 1.4959454908617473,
+        "leverage": 0.0018466023000000007,
+        "conviction": 1.0878497764034254,
+        "zhangs_metric": 0.3405825348438684
+    },
+    {
+        "antecedents": [
+            "9 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.02659,
+        "consequent support": 0.13842,
+        "support": 0.00534,
+        "confidence": 0.20082737871380218,
+        "lift": 1.4508552139416429,
+        "leverage": 0.0016594122000000008,
+        "conviction": 1.078089985882353,
+        "zhangs_metric": 0.3192399382732938
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "9 miếng gà rán"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.02659,
+        "support": 0.00534,
+        "confidence": 0.03857824013870828,
+        "lift": 1.4508552139416429,
+        "leverage": 0.0016594122000000008,
+        "conviction": 1.012469283137962,
+        "zhangs_metric": 0.36067613955129746
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Burger Gà Nhỏ Mayo"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.05641,
+        "support": 0.00669,
+        "confidence": 0.03797252809626518,
+        "lift": 0.6731524214902531,
+        "leverage": -0.003248313800000001,
+        "conviction": 0.9808347760929849,
+        "zhangs_metric": -0.37082606403328283
+    },
+    {
+        "antecedents": [
+            "Burger Gà Nhỏ Mayo"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.05641,
+        "consequent support": 0.17618,
+        "support": 0.00669,
+        "confidence": 0.1185959936181528,
+        "lift": 0.6731524214902531,
+        "leverage": -0.003248313800000001,
+        "conviction": 0.9346678640386162,
+        "zhangs_metric": -0.33974869539115704
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Burger Gà Nhỏ Mayo"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.05641,
+        "support": 0.00665,
+        "confidence": 0.03771979580260918,
+        "lift": 0.6686721468287392,
+        "leverage": -0.0032950830000000007,
+        "conviction": 0.9805771706454466,
+        "zhangs_metric": -0.37560699753598903
+    },
+    {
+        "antecedents": [
+            "Burger Gà Nhỏ Mayo"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.05641,
+        "consequent support": 0.1763,
+        "support": 0.00665,
+        "confidence": 0.11788689948590675,
+        "lift": 0.6686721468287393,
+        "leverage": -0.0032950830000000007,
+        "conviction": 0.9337804863344051,
+        "zhangs_metric": -0.34431535817325815
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "Burger Gà Nhỏ Mayo"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.05641,
+        "support": 0.00537,
+        "confidence": 0.03834892523030779,
+        "lift": 0.6798249464688494,
+        "leverage": -0.002529092299999999,
+        "conviction": 0.9812186818654389,
+        "zhangs_metric": -0.35386118279177514
+    },
+    {
+        "antecedents": [
+            "Burger Gà Nhỏ Mayo"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.05641,
+        "consequent support": 0.14003,
+        "support": 0.00537,
+        "confidence": 0.09519588725403297,
+        "lift": 0.6798249464688494,
+        "leverage": -0.002529092299999999,
+        "conviction": 0.9504488185736677,
+        "zhangs_metric": -0.33294306212659297
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "Burger Gà Nhỏ Mayo"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.05641,
+        "support": 0.00589,
+        "confidence": 0.04255165438520445,
+        "lift": 0.7543282110477655,
+        "leverage": -0.0019182721999999996,
+        "conviction": 0.985525751150683,
+        "zhangs_metric": -0.2743140462152721
+    },
+    {
+        "antecedents": [
+            "Burger Gà Nhỏ Mayo"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.05641,
+        "consequent support": 0.13842,
+        "support": 0.00589,
+        "confidence": 0.1044141109732317,
+        "lift": 0.7543282110477655,
+        "leverage": -0.0019182721999999996,
+        "conviction": 0.9620294497228821,
+        "zhangs_metric": -0.25659012319300006
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "Burger Gà Nhỏ Mayo"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.05641,
+        "support": 0.0054,
+        "confidence": 0.038349549037710394,
+        "lift": 0.6798360049230703,
+        "leverage": -0.0025430921,
+        "conviction": 0.9812193183664427,
+        "zhangs_metric": -0.35405706650244284
+    },
+    {
+        "antecedents": [
+            "Burger Gà Nhỏ Mayo"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.05641,
+        "consequent support": 0.14081,
+        "support": 0.0054,
+        "confidence": 0.09572770785321752,
+        "lift": 0.6798360049230703,
+        "leverage": -0.0025430921,
+        "conviction": 0.950145224465791,
+        "zhangs_metric": -0.3329317786484195
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Burger Xúc Xích - 337 Kcal"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.05722,
+        "support": 0.00688,
+        "confidence": 0.039050970598251786,
+        "lift": 0.6824706500917823,
+        "leverage": -0.0032010195999999996,
+        "conviction": 0.981092619019492,
+        "zhangs_metric": -0.3609262892679421
+    },
+    {
+        "antecedents": [
+            "Burger Xúc Xích - 337 Kcal"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.05722,
+        "consequent support": 0.17618,
+        "support": 0.00688,
+        "confidence": 0.12023767913317021,
+        "lift": 0.6824706500917823,
+        "leverage": -0.0032010195999999996,
+        "conviction": 0.9364120063567739,
+        "zhangs_metric": -0.3304330824975178
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Burger Xúc Xích - 337 Kcal"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.05722,
+        "support": 0.00675,
+        "confidence": 0.03828701077708451,
+        "lift": 0.6691193774394357,
+        "leverage": -0.003337886000000001,
+        "conviction": 0.9803132645237392,
+        "zhangs_metric": -0.37513352928304916
+    },
+    {
+        "antecedents": [
+            "Burger Xúc Xích - 337 Kcal"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.05722,
+        "consequent support": 0.1763,
+        "support": 0.00675,
+        "confidence": 0.11796574624257253,
+        "lift": 0.6691193774394357,
+        "leverage": -0.003337886000000001,
+        "conviction": 0.9338639587873984,
+        "zhangs_metric": -0.3440533987462547
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "Burger Xúc Xích - 337 Kcal"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.05722,
+        "support": 0.00561,
+        "confidence": 0.04006284367635507,
+        "lift": 0.7001545556860376,
+        "leverage": -0.0024025165999999997,
+        "conviction": 0.9821267921440261,
+        "zhangs_metric": -0.33243860344206416
+    },
+    {
+        "antecedents": [
+            "Burger Xúc Xích - 337 Kcal"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.05722,
+        "consequent support": 0.14003,
+        "support": 0.00561,
+        "confidence": 0.09804264243271583,
+        "lift": 0.7001545556860376,
+        "leverage": -0.0024025165999999997,
+        "conviction": 0.9534486223600078,
+        "zhangs_metric": -0.312359452219046
+    },
+    {
+        "antecedents": [
+            "Burger Xúc Xích - 337 Kcal"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.05722,
+        "consequent support": 0.13842,
+        "support": 0.0057,
+        "confidence": 0.09961551904928347,
+        "lift": 0.7196613137500613,
+        "leverage": -0.0022203923999999983,
+        "conviction": 0.9569023214285715,
+        "zhangs_metric": -0.2923785484532588
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "Burger Xúc Xích - 337 Kcal"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.05722,
+        "support": 0.0057,
+        "confidence": 0.041179020372778506,
+        "lift": 0.7196613137500613,
+        "leverage": -0.0022203923999999983,
+        "conviction": 0.9832700994575045,
+        "zhangs_metric": -0.3113544182302308
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "Burger Xúc Xích - 337 Kcal"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.05722,
+        "support": 0.00555,
+        "confidence": 0.039414814288757906,
+        "lift": 0.6888293304571462,
+        "leverage": -0.002507148199999999,
+        "conviction": 0.9814642303711371,
+        "zhangs_metric": -0.3445942657488309
+    },
+    {
+        "antecedents": [
+            "Burger Xúc Xích - 337 Kcal"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.05722,
+        "consequent support": 0.14081,
+        "support": 0.00555,
+        "confidence": 0.09699405802167074,
+        "lift": 0.6888293304571461,
+        "leverage": -0.002507148199999999,
+        "conviction": 0.9514776814399071,
+        "zhangs_metric": -0.32393865132581134
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Caramen đá xay"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03114,
+        "support": 0.00539,
+        "confidence": 0.030593710977409466,
+        "lift": 0.98245699991681,
+        "leverage": -9.624520000000008e-05,
+        "conviction": 0.9994364705193514,
+        "zhangs_metric": -0.021215107673418748
+    },
+    {
+        "antecedents": [
+            "Caramen đá xay"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03114,
+        "consequent support": 0.17618,
+        "support": 0.00539,
+        "confidence": 0.1730892742453436,
+        "lift": 0.98245699991681,
+        "leverage": -9.624520000000008e-05,
+        "conviction": 0.996262322330097,
+        "zhangs_metric": -0.01809664356611273
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Caramen đá xay"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03114,
+        "support": 0.00556,
+        "confidence": 0.03153715258082813,
+        "lift": 1.012753775877589,
+        "leverage": 7.001799999999895e-05,
+        "conviction": 1.0004100855101323,
+        "zhangs_metric": 0.015288534014356817
+    },
+    {
+        "antecedents": [
+            "Caramen đá xay"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03114,
+        "consequent support": 0.1763,
+        "support": 0.00556,
+        "confidence": 0.178548490687219,
+        "lift": 1.0127537758775893,
+        "leverage": 7.001799999999895e-05,
+        "conviction": 1.0027372165754496,
+        "zhangs_metric": 0.012997920718809437
+    },
+    {
+        "antecedents": [
+            "Coca-Cola® - 150 Kcal"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03177,
+        "consequent support": 0.17618,
+        "support": 0.00563,
+        "confidence": 0.17721120553981742,
+        "lift": 1.0058531362232797,
+        "leverage": 3.2761399999999344e-05,
+        "conviction": 1.0012533052792654,
+        "zhangs_metric": 0.006010014538440306
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Coca-Cola® - 150 Kcal"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03177,
+        "support": 0.00563,
+        "confidence": 0.031955954137813596,
+        "lift": 1.0058531362232797,
+        "leverage": 3.2761399999999344e-05,
+        "conviction": 1.0001920926414543,
+        "zhangs_metric": 0.007063528897761717
+    },
+    {
+        "antecedents": [
+            "Coca-Cola® - 150 Kcal"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03177,
+        "consequent support": 0.1763,
+        "support": 0.00551,
+        "confidence": 0.17343405728674852,
+        "lift": 0.9837439437705531,
+        "leverage": -9.105099999999998e-05,
+        "conviction": 0.9965327113480579,
+        "zhangs_metric": -0.01678050654752324
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Coca-Cola® - 150 Kcal"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03177,
+        "support": 0.00551,
+        "confidence": 0.03125354509359047,
+        "lift": 0.9837439437705531,
+        "leverage": -9.105099999999998e-05,
+        "conviction": 0.9994668833069852,
+        "zhangs_metric": -0.019666980442099354
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Combo 2A"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.05981,
+        "support": 0.0118,
+        "confidence": 0.06697695538653649,
+        "lift": 1.1198287140367245,
+        "leverage": 0.0012626741999999993,
+        "conviction": 1.0076814344810803,
+        "zhangs_metric": 0.1298903742754402
+    },
+    {
+        "antecedents": [
+            "Combo 2A"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.05981,
+        "consequent support": 0.17618,
+        "support": 0.0118,
+        "confidence": 0.19729142283899012,
+        "lift": 1.1198287140367245,
+        "leverage": 0.0012626741999999993,
+        "conviction": 1.0263002332847324,
+        "zhangs_metric": 0.11381347188929171
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Combo 2A"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.05981,
+        "support": 0.01157,
+        "confidence": 0.06562677254679523,
+        "lift": 1.0972541806854244,
+        "leverage": 0.0010254969999999985,
+        "conviction": 1.0062253202209677,
+        "zhangs_metric": 0.10760488043861352
+    },
+    {
+        "antecedents": [
+            "Combo 2A"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.05981,
+        "consequent support": 0.1763,
+        "support": 0.01157,
+        "confidence": 0.19344591205484032,
+        "lift": 1.0972541806854244,
+        "leverage": 0.0010254969999999985,
+        "conviction": 1.0212582296849086,
+        "zhangs_metric": 0.09427258321965343
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "Combo 2A"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.05981,
+        "support": 0.0122,
+        "confidence": 0.08712418767406986,
+        "lift": 1.4566826228735974,
+        "leverage": 0.0038248057000000012,
+        "conviction": 1.0299210334037392,
+        "zhangs_metric": 0.36455767519149074
+    },
+    {
+        "antecedents": [
+            "Combo 2A"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.05981,
+        "consequent support": 0.14003,
+        "support": 0.0122,
+        "confidence": 0.2039792676809898,
+        "lift": 1.4566826228735974,
+        "leverage": 0.0038248057000000012,
+        "conviction": 1.0803361835748793,
+        "zhangs_metric": 0.3334524552850236
+    },
+    {
+        "antecedents": [
+            "Combo 2A"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.05981,
+        "consequent support": 0.13842,
+        "support": 0.01226,
+        "confidence": 0.20498244440728974,
+        "lift": 1.480873027071881,
+        "leverage": 0.0039810998,
+        "conviction": 1.0837244963196635,
+        "zhangs_metric": 0.34537982647532267
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "Combo 2A"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.05981,
+        "support": 0.01226,
+        "confidence": 0.0885710157491692,
+        "lift": 1.4808730270718808,
+        "leverage": 0.0039810998,
+        "conviction": 1.0315559590995562,
+        "zhangs_metric": 0.37689205767756173
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "Combo 2A"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.05981,
+        "support": 0.01198,
+        "confidence": 0.08507918471699454,
+        "lift": 1.4224909666777217,
+        "leverage": 0.0035581538999999995,
+        "conviction": 1.0276189854847473,
+        "zhangs_metric": 0.3456835368933985
+    },
+    {
+        "antecedents": [
+            "Combo 2A"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.05981,
+        "consequent support": 0.14081,
+        "support": 0.01198,
+        "confidence": 0.20030095301788997,
+        "lift": 1.4224909666777217,
+        "leverage": 0.0035581538999999995,
+        "conviction": 1.0743916767719004,
+        "zhangs_metric": 0.3159019326555686
+    },
+    {
+        "antecedents": [
+            "Combo 2B"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.05874,
+        "consequent support": 0.17618,
+        "support": 0.01157,
+        "confidence": 0.19696969696969696,
+        "lift": 1.1180025937660174,
+        "leverage": 0.0012211867999999994,
+        "conviction": 1.0258890566037737,
+        "zhangs_metric": 0.11213447114260912
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Combo 2B"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.05874,
+        "support": 0.01157,
+        "confidence": 0.06567147235781587,
+        "lift": 1.1180025937660174,
+        "leverage": 0.0012211867999999994,
+        "conviction": 1.007418667152664,
+        "zhangs_metric": 0.12811984694191964
+    },
+    {
+        "antecedents": [
+            "Combo 2B"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.05874,
+        "consequent support": 0.1763,
+        "support": 0.01166,
+        "confidence": 0.19850187265917604,
+        "lift": 1.1259323463367896,
+        "leverage": 0.0013041379999999998,
+        "conviction": 1.0277004672897196,
+        "zhangs_metric": 0.11882707202188635
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Combo 2B"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.05874,
+        "support": 0.01166,
+        "confidence": 0.06613726602382303,
+        "lift": 1.1259323463367896,
+        "leverage": 0.0013041379999999998,
+        "conviction": 1.0079211491739553,
+        "zhangs_metric": 0.13578629332441514
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "Combo 2B"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.05874,
+        "support": 0.01223,
+        "confidence": 0.08733842747982576,
+        "lift": 1.4868646149102105,
+        "leverage": 0.0040046378,
+        "conviction": 1.031335194053208,
+        "zhangs_metric": 0.3807618990226808
+    },
+    {
+        "antecedents": [
+            "Combo 2B"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.05874,
+        "consequent support": 0.14003,
+        "support": 0.01223,
+        "confidence": 0.20820565202587674,
+        "lift": 1.4868646149102103,
+        "leverage": 0.0040046378,
+        "conviction": 1.0861027262954204,
+        "zhangs_metric": 0.3478781742584778
+    },
+    {
+        "antecedents": [
+            "Combo 2B"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.05874,
+        "consequent support": 0.13842,
+        "support": 0.01144,
+        "confidence": 0.1947565543071161,
+        "lift": 1.4069972136043645,
+        "leverage": 0.0033092092000000014,
+        "conviction": 1.0699621395348837,
+        "zhangs_metric": 0.3073184226053785
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "Combo 2B"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.05874,
+        "support": 0.01144,
+        "confidence": 0.08264701632712038,
+        "lift": 1.4069972136043645,
+        "leverage": 0.0033092092000000014,
+        "conviction": 1.0260608694282565,
+        "zhangs_metric": 0.3357396161256512
+    },
+    {
+        "antecedents": [
+            "Combo 2B"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.05874,
+        "consequent support": 0.14081,
+        "support": 0.01184,
+        "confidence": 0.20156622403813415,
+        "lift": 1.431476628351212,
+        "leverage": 0.0035688205999999997,
+        "conviction": 1.0760942558635396,
+        "zhangs_metric": 0.32023102945390625
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "Combo 2B"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.05874,
+        "support": 0.01184,
+        "confidence": 0.0840849371493502,
+        "lift": 1.4314766283512121,
+        "leverage": 0.0035688205999999997,
+        "conviction": 1.0276717112506784,
+        "zhangs_metric": 0.35081956119575847
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Combo 2C"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.05971,
+        "support": 0.01201,
+        "confidence": 0.0681689181518901,
+        "lift": 1.1416666915406148,
+        "leverage": 0.0014902922,
+        "conviction": 1.0090777377109093,
+        "zhangs_metric": 0.15062466354874776
+    },
+    {
+        "antecedents": [
+            "Combo 2C"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.05971,
+        "consequent support": 0.17618,
+        "support": 0.01201,
+        "confidence": 0.20113883771562552,
+        "lift": 1.1416666915406148,
+        "leverage": 0.0014902922,
+        "conviction": 1.0312430230607967,
+        "zhangs_metric": 0.13196738274865136
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Combo 2C"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.05971,
+        "support": 0.01198,
+        "confidence": 0.06795235394214406,
+        "lift": 1.1380397578654173,
+        "leverage": 0.0014531269999999985,
+        "conviction": 1.0088432753164556,
+        "zhangs_metric": 0.14725758989274937
+    },
+    {
+        "antecedents": [
+            "Combo 2C"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.05971,
+        "consequent support": 0.1763,
+        "support": 0.01198,
+        "confidence": 0.2006364093116731,
+        "lift": 1.1380397578654173,
+        "leverage": 0.0014531269999999985,
+        "conviction": 1.0304447307772888,
+        "zhangs_metric": 0.1289985821338711
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "Combo 2C"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.05971,
+        "support": 0.01206,
+        "confidence": 0.0861244019138756,
+        "lift": 1.4423781931648905,
+        "leverage": 0.0036988087000000003,
+        "conviction": 1.0289037172774869,
+        "zhangs_metric": 0.356640993936481
+    },
+    {
+        "antecedents": [
+            "Combo 2C"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.05971,
+        "consequent support": 0.14003,
+        "support": 0.01206,
+        "confidence": 0.20197621838887958,
+        "lift": 1.4423781931648905,
+        "leverage": 0.0036988087000000003,
+        "conviction": 1.0776245267576077,
+        "zhangs_metric": 0.32617655782317756
+    },
+    {
+        "antecedents": [
+            "Combo 2C"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.05971,
+        "consequent support": 0.13842,
+        "support": 0.01137,
+        "confidence": 0.19042036509797353,
+        "lift": 1.375670893642346,
+        "leverage": 0.0031049418000000002,
+        "conviction": 1.0642313156805958,
+        "zhangs_metric": 0.29042311681140537
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "Combo 2C"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.05971,
+        "support": 0.01137,
+        "confidence": 0.08214130905938449,
+        "lift": 1.3756708936423463,
+        "leverage": 0.0031049418000000002,
+        "conviction": 1.0244387390791028,
+        "zhangs_metric": 0.31695484169386046
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "Combo 2C"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.05971,
+        "support": 0.01229,
+        "confidence": 0.08728073290249273,
+        "lift": 1.4617439775999452,
+        "leverage": 0.0038822349000000016,
+        "conviction": 1.0302072432306255,
+        "zhangs_metric": 0.3676551999877343
+    },
+    {
+        "antecedents": [
+            "Combo 2C"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.05971,
+        "consequent support": 0.14081,
+        "support": 0.01229,
+        "confidence": 0.20582816948584828,
+        "lift": 1.4617439775999452,
+        "leverage": 0.0038822349000000016,
+        "conviction": 1.0818691459299874,
+        "zhangs_metric": 0.33594494387631635
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Combo 3A"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.06051,
+        "support": 0.01183,
+        "confidence": 0.06714723578158702,
+        "lift": 1.1096882462665183,
+        "leverage": 0.0011693481999999998,
+        "conviction": 1.00711498752662,
+        "zhangs_metric": 0.11998495022045721
+    },
+    {
+        "antecedents": [
+            "Combo 3A"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.06051,
+        "consequent support": 0.17618,
+        "support": 0.01183,
+        "confidence": 0.19550487522723517,
+        "lift": 1.109688246266518,
+        "leverage": 0.0011693481999999998,
+        "conviction": 1.0240211216105177,
+        "zhangs_metric": 0.10521240427318763
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Combo 3A"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.06051,
+        "support": 0.01202,
+        "confidence": 0.0681792399319342,
+        "lift": 1.1267433470820394,
+        "leverage": 0.0013520869999999983,
+        "conviction": 1.0082303810567323,
+        "zhangs_metric": 0.13656238833056542
+    },
+    {
+        "antecedents": [
+            "Combo 3A"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.06051,
+        "consequent support": 0.1763,
+        "support": 0.01202,
+        "confidence": 0.19864485209056354,
+        "lift": 1.1267433470820394,
+        "leverage": 0.0013520869999999983,
+        "conviction": 1.0278838317178798,
+        "zhangs_metric": 0.11973138539834029
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "Combo 3A"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.06051,
+        "support": 0.01238,
+        "confidence": 0.08840962650860532,
+        "lift": 1.4610746406974933,
+        "leverage": 0.003906784700000001,
+        "conviction": 1.0306054422248336,
+        "zhangs_metric": 0.3669573005918624
+    },
+    {
+        "antecedents": [
+            "Combo 3A"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.06051,
+        "consequent support": 0.14003,
+        "support": 0.01238,
+        "confidence": 0.20459428193686993,
+        "lift": 1.461074640697493,
+        "leverage": 0.003906784700000001,
+        "conviction": 1.0811715084147102,
+        "zhangs_metric": 0.33589742284642077
+    },
+    {
+        "antecedents": [
+            "Combo 3A"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.06051,
+        "consequent support": 0.13842,
+        "support": 0.01199,
+        "confidence": 0.198149066270038,
+        "lift": 1.4315060415405145,
+        "leverage": 0.003614205800000001,
+        "conviction": 1.0744889901071724,
+        "zhangs_metric": 0.32084962321091803
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "Combo 3A"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.06051,
+        "support": 0.01199,
+        "confidence": 0.08662043057361654,
+        "lift": 1.4315060415405145,
+        "leverage": 0.003614205800000001,
+        "conviction": 1.0285866155184689,
+        "zhangs_metric": 0.34986305683793195
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "Combo 3A"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.06051,
+        "support": 0.01229,
+        "confidence": 0.08728073290249273,
+        "lift": 1.4424183259377414,
+        "leverage": 0.0037695869000000017,
+        "conviction": 1.0293307415188298,
+        "zhangs_metric": 0.3569872151709943
+    },
+    {
+        "antecedents": [
+            "Combo 3A"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.06051,
+        "consequent support": 0.14081,
+        "support": 0.01229,
+        "confidence": 0.20310692447529335,
+        "lift": 1.4424183259377414,
+        "leverage": 0.0037695869000000017,
+        "conviction": 1.0781747594359188,
+        "zhangs_metric": 0.32647483784049497
+    },
+    {
+        "antecedents": [
+            "Combo 3B"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.06123,
+        "consequent support": 0.17618,
+        "support": 0.01222,
+        "confidence": 0.19957537154989385,
+        "lift": 1.1327924369956512,
+        "leverage": 0.0014324986000000001,
+        "conviction": 1.029228700265252,
+        "zhangs_metric": 0.12487163488485047
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Combo 3B"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.06123,
+        "support": 0.01222,
+        "confidence": 0.06936088091724373,
+        "lift": 1.1327924369956512,
+        "leverage": 0.0014324986000000001,
+        "conviction": 1.0087368785069528,
+        "zhangs_metric": 0.14229533718634058
+    },
+    {
+        "antecedents": [
+            "Combo 3B"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.06123,
+        "consequent support": 0.1763,
+        "support": 0.01279,
+        "confidence": 0.20888453372529805,
+        "lift": 1.1848243546528534,
+        "leverage": 0.001995150999999999,
+        "conviction": 1.04118808835673,
+        "zhangs_metric": 0.16616747599371928
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Combo 3B"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.06123,
+        "support": 0.01279,
+        "confidence": 0.0725467952353942,
+        "lift": 1.1848243546528532,
+        "leverage": 0.001995150999999999,
+        "conviction": 1.0122020121093511,
+        "zhangs_metric": 0.18938089284766765
+    },
+    {
+        "antecedents": [
+            "Combo 3B"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.06123,
+        "consequent support": 0.14003,
+        "support": 0.01209,
+        "confidence": 0.19745222929936307,
+        "lift": 1.410070908372228,
+        "leverage": 0.0035159631,
+        "conviction": 1.0715499206349206,
+        "zhangs_metric": 0.30978387299510307
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "Combo 3B"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.06123,
+        "support": 0.01209,
+        "confidence": 0.08633864171963151,
+        "lift": 1.4100709083722278,
+        "leverage": 0.0035159631,
+        "conviction": 1.0274813435985617,
+        "zhangs_metric": 0.3381697110964486
+    },
+    {
+        "antecedents": [
+            "Combo 3B"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.06123,
+        "consequent support": 0.13842,
+        "support": 0.01205,
+        "confidence": 0.1967989547607382,
+        "lift": 1.4217523100761322,
+        "leverage": 0.0035745434000000013,
+        "conviction": 1.0726828670191135,
+        "zhangs_metric": 0.3159907174378482
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "Combo 3B"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.06123,
+        "support": 0.01205,
+        "confidence": 0.08705389394596158,
+        "lift": 1.4217523100761322,
+        "leverage": 0.0035745434000000013,
+        "conviction": 1.0282863290337896,
+        "zhangs_metric": 0.3443007101013588
+    },
+    {
+        "antecedents": [
+            "Combo 3B"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.06123,
+        "consequent support": 0.14081,
+        "support": 0.01208,
+        "confidence": 0.19728891066470686,
+        "lift": 1.4011001396541927,
+        "leverage": 0.0034582037000000006,
+        "conviction": 1.0703601973550356,
+        "zhangs_metric": 0.3049470485086623
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "Combo 3B"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.06123,
+        "support": 0.01208,
+        "confidence": 0.08578936155102622,
+        "lift": 1.4011001396541927,
+        "leverage": 0.0034582037000000006,
+        "conviction": 1.026864007612833,
+        "zhangs_metric": 0.3331918908838288
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Cà phê Americano đá"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03055,
+        "support": 0.00561,
+        "confidence": 0.03184243387444659,
+        "lift": 1.0423055278051256,
+        "leverage": 0.0002277010000000003,
+        "conviction": 1.001334941666178,
+        "zhangs_metric": 0.04926854597756443
+    },
+    {
+        "antecedents": [
+            "Cà phê Americano đá"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03055,
+        "consequent support": 0.17618,
+        "support": 0.00561,
+        "confidence": 0.18363338788870703,
+        "lift": 1.0423055278051256,
+        "leverage": 0.0002277010000000003,
+        "conviction": 1.009129951884523,
+        "zhangs_metric": 0.041867464590476175
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Cà phê Americano đá"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03055,
+        "support": 0.00555,
+        "confidence": 0.0314804310833806,
+        "lift": 1.0304560092759607,
+        "leverage": 0.00016403499999999988,
+        "conviction": 1.000960673499268,
+        "zhangs_metric": 0.035881820876357697
+    },
+    {
+        "antecedents": [
+            "Cà phê Americano đá"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03055,
+        "consequent support": 0.1763,
+        "support": 0.00555,
+        "confidence": 0.18166939443535188,
+        "lift": 1.0304560092759607,
+        "leverage": 0.00016403499999999988,
+        "conviction": 1.0065614,
+        "zhangs_metric": 0.030487241070561482
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Cà phê Latte đá"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.0308,
+        "support": 0.0055,
+        "confidence": 0.031218072425928025,
+        "lift": 1.0135737800625981,
+        "leverage": 7.36559999999992e-05,
+        "conviction": 1.000431544410593,
+        "zhangs_metric": 0.016255978247675287
+    },
+    {
+        "antecedents": [
+            "Cà phê Latte đá"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.0308,
+        "consequent support": 0.17618,
+        "support": 0.0055,
+        "confidence": 0.17857142857142855,
+        "lift": 1.0135737800625981,
+        "leverage": 7.36559999999992e-05,
+        "conviction": 1.0029113043478262,
+        "zhangs_metric": 0.013817581510523995
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Cà phê Latte đá"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.0308,
+        "support": 0.0054,
+        "confidence": 0.030629608621667612,
+        "lift": 0.9944678123918056,
+        "leverage": -3.0040000000000275e-05,
+        "conviction": 0.9998242246928027,
+        "zhangs_metric": -0.006708321981590139
+    },
+    {
+        "antecedents": [
+            "Cà phê Latte đá"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.0308,
+        "consequent support": 0.1763,
+        "support": 0.0054,
+        "confidence": 0.17532467532467533,
+        "lift": 0.9944678123918055,
+        "leverage": -3.0040000000000275e-05,
+        "conviction": 0.9988173228346456,
+        "zhangs_metric": -0.005706990493415354
+    },
+    {
+        "antecedents": [
+            "Cà phê sữa đá Việt Nam"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03107,
+        "consequent support": 0.17618,
+        "support": 0.00555,
+        "confidence": 0.17862890247827487,
+        "lift": 1.0139000027146945,
+        "leverage": 7.608739999999999e-05,
+        "conviction": 1.0029814811912225,
+        "zhangs_metric": 0.01414905250270034
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Cà phê sữa đá Việt Nam"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03107,
+        "support": 0.00555,
+        "confidence": 0.03150187308434556,
+        "lift": 1.0139000027146945,
+        "leverage": 7.608739999999999e-05,
+        "conviction": 1.0004459204125886,
+        "zhangs_metric": 0.016641306889176567
+    },
+    {
+        "antecedents": [
+            "Cà phê sữa đá Việt Nam"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03107,
+        "consequent support": 0.1763,
+        "support": 0.00559,
+        "confidence": 0.1799163179916318,
+        "lift": 1.0205122971731808,
+        "leverage": 0.00011235900000000024,
+        "conviction": 1.0044096938775509,
+        "zhangs_metric": 0.020744532628776114
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Cà phê sữa đá Việt Nam"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03107,
+        "support": 0.00559,
+        "confidence": 0.03170731707317073,
+        "lift": 1.020512297173181,
+        "leverage": 0.00011235900000000024,
+        "conviction": 1.0006581863979849,
+        "zhangs_metric": 0.02440208813888557
+    },
+    {
+        "antecedents": [
+            "Cà phê đen đá Việt Nam"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03179,
+        "consequent support": 0.17618,
+        "support": 0.00566,
+        "confidence": 0.17804340987731992,
+        "lift": 1.0105767390017024,
+        "leverage": 5.923780000000045e-05,
+        "conviction": 1.0022670417145043,
+        "zhangs_metric": 0.010809682199963783
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Cà phê đen đá Việt Nam"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03179,
+        "support": 0.00566,
+        "confidence": 0.03212623453286412,
+        "lift": 1.0105767390017024,
+        "leverage": 5.923780000000045e-05,
+        "conviction": 1.0003473950269763,
+        "zhangs_metric": 0.01270428297786766
+    },
+    {
+        "antecedents": [
+            "Cà phê đen đá Việt Nam"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03179,
+        "consequent support": 0.1763,
+        "support": 0.00548,
+        "confidence": 0.17238125196602705,
+        "lift": 0.9777722743393479,
+        "leverage": -0.00012457700000000071,
+        "conviction": 0.9952650323071075,
+        "zhangs_metric": -0.022940803383520492
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Cà phê đen đá Việt Nam"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03179,
+        "support": 0.00548,
+        "confidence": 0.031083380601247868,
+        "lift": 0.9777722743393479,
+        "leverage": -0.00012457700000000071,
+        "conviction": 0.9992707118604378,
+        "zhangs_metric": -0.02685744579065492
+    },
+    {
+        "antecedents": [
+            "Fanta®"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03071,
+        "consequent support": 0.17618,
+        "support": 0.00547,
+        "confidence": 0.17811787691305764,
+        "lift": 1.0109994148771577,
+        "leverage": 5.951219999999948e-05,
+        "conviction": 1.0023578526148968,
+        "zhangs_metric": 0.011224446820353886
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Fanta®"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03071,
+        "support": 0.00547,
+        "confidence": 0.03104779203087751,
+        "lift": 1.0109994148771575,
+        "leverage": 5.951219999999948e-05,
+        "conviction": 1.0003486157811492,
+        "zhangs_metric": 0.01320645779235855
+    },
+    {
+        "antecedents": [
+            "Fanta®"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03071,
+        "consequent support": 0.1763,
+        "support": 0.00529,
+        "confidence": 0.17225659394334095,
+        "lift": 0.9770651953677875,
+        "leverage": -0.000124173,
+        "conviction": 0.9951151455546813,
+        "zhangs_metric": -0.02364426674848879
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Fanta®"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03071,
+        "support": 0.00529,
+        "confidence": 0.030005672149744752,
+        "lift": 0.9770651953677874,
+        "leverage": -0.000124173,
+        "conviction": 0.9992738845681538,
+        "zhangs_metric": -0.027707625895170993
+    },
+    {
+        "antecedents": [
+            "Latte Đá Xay"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.0305,
+        "consequent support": 0.17618,
+        "support": 0.00518,
+        "confidence": 0.16983606557377048,
+        "lift": 0.9639917446575689,
+        "leverage": -0.00019349000000000015,
+        "conviction": 0.992358214849921,
+        "zhangs_metric": -0.03709903173233633
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Latte Đá Xay"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.0305,
+        "support": 0.00518,
+        "confidence": 0.02940174821205585,
+        "lift": 0.9639917446575689,
+        "leverage": -0.00019349000000000015,
+        "conviction": 0.9988684795321638,
+        "zhangs_metric": -0.04337487314155407
+    },
+    {
+        "antecedents": [
+            "Matcha Latte đá"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03121,
+        "consequent support": 0.17618,
+        "support": 0.00572,
+        "confidence": 0.1832745914770907,
+        "lift": 1.0402689946480344,
+        "leverage": 0.00022142219999999983,
+        "conviction": 1.0086866300510005,
+        "zhangs_metric": 0.03995724029477472
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Matcha Latte đá"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03121,
+        "support": 0.00572,
+        "confidence": 0.03246679532296515,
+        "lift": 1.0402689946480341,
+        "leverage": 0.00022142219999999983,
+        "conviction": 1.0012989686730025,
+        "zhangs_metric": 0.04698863201327328
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Milo™ - 110 Kcal"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03155,
+        "support": 0.00576,
+        "confidence": 0.03269383584969917,
+        "lift": 1.0362547020506867,
+        "leverage": 0.00020152099999999964,
+        "conviction": 1.0011824961858937,
+        "zhangs_metric": 0.04246836046978971
+    },
+    {
+        "antecedents": [
+            "Milo™ - 110 Kcal"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03155,
+        "consequent support": 0.17618,
+        "support": 0.00576,
+        "confidence": 0.18256735340729002,
+        "lift": 1.036254702050687,
+        "leverage": 0.00020152099999999964,
+        "conviction": 1.007813920124079,
+        "zhangs_metric": 0.03612606197761594
+    },
+    {
+        "antecedents": [
+            "Mocha Đá Xay"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03089,
+        "consequent support": 0.17618,
+        "support": 0.0059,
+        "confidence": 0.19100032372936224,
+        "lift": 1.0841203526470782,
+        "leverage": 0.00045779979999999946,
+        "conviction": 1.0183193197278912,
+        "zhangs_metric": 0.08006643873314472
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Mocha Đá Xay"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03089,
+        "support": 0.0059,
+        "confidence": 0.033488477693268244,
+        "lift": 1.0841203526470782,
+        "leverage": 0.00045779979999999946,
+        "conviction": 1.0026885118628142,
+        "zhangs_metric": 0.09418706324279318
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Nước suối"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03084,
+        "support": 0.00536,
+        "confidence": 0.03042343058235895,
+        "lift": 0.9864925610362825,
+        "leverage": -7.339119999999998e-05,
+        "conviction": 0.9995703594426882,
+        "zhangs_metric": -0.016348878243369263
+    },
+    {
+        "antecedents": [
+            "Nước suối"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03084,
+        "consequent support": 0.17618,
+        "support": 0.00536,
+        "confidence": 0.17380025940337226,
+        "lift": 0.9864925610362826,
+        "leverage": -7.339119999999998e-05,
+        "conviction": 0.9971196546310832,
+        "zhangs_metric": -0.013931276177425098
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Phần ăn 2 miếng gà rán"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.0267,
+        "support": 0.00697,
+        "confidence": 0.03956181178340334,
+        "lift": 1.4817157971312112,
+        "leverage": 0.0022659939999999995,
+        "conviction": 1.0133916080609893,
+        "zhangs_metric": 0.39463322471544615
+    },
+    {
+        "antecedents": [
+            "Phần ăn 2 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.0267,
+        "consequent support": 0.17618,
+        "support": 0.00697,
+        "confidence": 0.26104868913857676,
+        "lift": 1.481715797131211,
+        "leverage": 0.0022659939999999995,
+        "conviction": 1.1148501773948303,
+        "zhangs_metric": 0.3340252164646859
+    },
+    {
+        "antecedents": [
+            "Sprite®"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03108,
+        "consequent support": 0.17618,
+        "support": 0.00558,
+        "confidence": 0.17953667953667954,
+        "lift": 1.0190525572521258,
+        "leverage": 0.00010432559999999994,
+        "conviction": 1.0040912,
+        "zhangs_metric": 0.019296065811441082
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Sprite®"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03108,
+        "support": 0.00558,
+        "confidence": 0.03167215347939607,
+        "lift": 1.0190525572521258,
+        "leverage": 0.00010432559999999994,
+        "conviction": 1.0006115216881595,
+        "zhangs_metric": 0.02269469554759716
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Sữa chua Kiwi"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03083,
+        "support": 0.00524,
+        "confidence": 0.029742309002156884,
+        "lift": 0.964719721120885,
+        "leverage": -0.0001916294000000006,
+        "conviction": 0.9988789668889669,
+        "zhangs_metric": -0.0425045329364251
+    },
+    {
+        "antecedents": [
+            "Sữa chua Kiwi"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03083,
+        "consequent support": 0.17618,
+        "support": 0.00524,
+        "confidence": 0.16996432046707752,
+        "lift": 0.964719721120885,
+        "leverage": -0.0001916294000000006,
+        "conviction": 0.9925115513872607,
+        "zhangs_metric": -0.03636176162935824
+    },
+    {
+        "antecedents": [
+            "Sữa tươi"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03092,
+        "consequent support": 0.17618,
+        "support": 0.00553,
+        "confidence": 0.17884864165588615,
+        "lift": 1.0151472451804187,
+        "leverage": 8.251439999999981e-05,
+        "conviction": 1.0032498779046868,
+        "zhangs_metric": 0.015397314624612513
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Sữa tươi"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03092,
+        "support": 0.00553,
+        "confidence": 0.03138835282097854,
+        "lift": 1.0151472451804187,
+        "leverage": 8.251439999999981e-05,
+        "conviction": 1.0004835300322297,
+        "zhangs_metric": 0.018112244976353446
+    },
+    {
+        "antecedents": [
+            "Trà Kem Sữa"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.0305,
+        "consequent support": 0.17618,
+        "support": 0.00565,
+        "confidence": 0.18524590163934426,
+        "lift": 1.0514581770878888,
+        "leverage": 0.0002765099999999998,
+        "conviction": 1.0111271629778673,
+        "zhangs_metric": 0.050479446115368254
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Trà Kem Sữa"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.0305,
+        "support": 0.00565,
+        "confidence": 0.03206947440118061,
+        "lift": 1.0514581770878888,
+        "leverage": 0.0002765099999999998,
+        "conviction": 1.0016214742274088,
+        "zhangs_metric": 0.05940596611984356
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Trà Vải"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03236,
+        "support": 0.00575,
+        "confidence": 0.03263707571801566,
+        "lift": 1.0085622904207558,
+        "leverage": 4.8815199999999864e-05,
+        "conviction": 1.0002864237516869,
+        "zhangs_metric": 0.010305163749362696
+    },
+    {
+        "antecedents": [
+            "Trà Vải"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03236,
+        "consequent support": 0.17618,
+        "support": 0.00575,
+        "confidence": 0.1776885043263288,
+        "lift": 1.008562290420756,
+        "leverage": 4.8815199999999864e-05,
+        "conviction": 1.0018344682450206,
+        "zhangs_metric": 0.008773510809805275
+    },
+    {
+        "antecedents": [
+            "Trà xanh đá xay"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03101,
+        "consequent support": 0.17618,
+        "support": 0.00581,
+        "confidence": 0.18735891647855532,
+        "lift": 1.063451677140171,
+        "leverage": 0.00034665819999999976,
+        "conviction": 1.0137562777777778,
+        "zhangs_metric": 0.06157523104730707
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Trà xanh đá xay"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03101,
+        "support": 0.00581,
+        "confidence": 0.0329776365081167,
+        "lift": 1.063451677140171,
+        "leverage": 0.00034665819999999976,
+        "conviction": 1.0020347373363856,
+        "zhangs_metric": 0.07242575214552946
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Trà Đào"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.03049,
+        "support": 0.00575,
+        "confidence": 0.03263707571801566,
+        "lift": 1.0704190133819502,
+        "leverage": 0.00037827179999999974,
+        "conviction": 1.0022195141700405,
+        "zhangs_metric": 0.0798553081983928
+    },
+    {
+        "antecedents": [
+            "Trà Đào"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.03049,
+        "consequent support": 0.17618,
+        "support": 0.00575,
+        "confidence": 0.18858642177763202,
+        "lift": 1.0704190133819504,
+        "leverage": 0.00037827179999999974,
+        "conviction": 1.015289886822959,
+        "zhangs_metric": 0.06785530835164151
+    },
+    {
+        "antecedents": [
+            "Tắc muối mơ ngâm hạt chia"
+        ],
+        "consequents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "antecedent support": 0.0305,
+        "consequent support": 0.17618,
+        "support": 0.00579,
+        "confidence": 0.1898360655737705,
+        "lift": 1.07751200802458,
+        "leverage": 0.00041651000000000014,
+        "conviction": 1.016855928773776,
+        "zhangs_metric": 0.07419917144763297
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™  xốt Dâu"
+        ],
+        "consequents": [
+            "Tắc muối mơ ngâm hạt chia"
+        ],
+        "antecedent support": 0.17618,
+        "consequent support": 0.0305,
+        "support": 0.00579,
+        "confidence": 0.032864116244749685,
+        "lift": 1.07751200802458,
+        "leverage": 0.00041651000000000014,
+        "conviction": 1.0024444509654322,
+        "zhangs_metric": 0.08732016304348057
+    },
+    {
+        "antecedents": [
+            "Latte Đá Xay"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.0305,
+        "consequent support": 0.1763,
+        "support": 0.0055,
+        "confidence": 0.18032786885245902,
+        "lift": 1.022846675283375,
+        "leverage": 0.000122849999999999,
+        "conviction": 1.0049139999999999,
+        "zhangs_metric": 0.02303905480800769
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Latte Đá Xay"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.0305,
+        "support": 0.0055,
+        "confidence": 0.031196823596142936,
+        "lift": 1.022846675283375,
+        "leverage": 0.000122849999999999,
+        "conviction": 1.000719262295082,
+        "zhangs_metric": 0.027117110157051663
+    },
+    {
+        "antecedents": [
+            "Matcha Latte đá"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03121,
+        "consequent support": 0.1763,
+        "support": 0.0056,
+        "confidence": 0.1794296699775713,
+        "lift": 1.0177519567644429,
+        "leverage": 9.767699999999914e-05,
+        "conviction": 1.0038140179617336,
+        "zhangs_metric": 0.018004233557913762
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Matcha Latte đá"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03121,
+        "support": 0.0056,
+        "confidence": 0.03176403857061826,
+        "lift": 1.0177519567644429,
+        "leverage": 9.767699999999914e-05,
+        "conviction": 1.0005722144112479,
+        "zhangs_metric": 0.021175575365510835
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Milo™ - 110 Kcal"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03155,
+        "support": 0.00559,
+        "confidence": 0.03170731707317073,
+        "lift": 1.0049862780719725,
+        "leverage": 2.7735000000000086e-05,
+        "conviction": 1.000162468513854,
+        "zhangs_metric": 0.006023477554374744
+    },
+    {
+        "antecedents": [
+            "Milo™ - 110 Kcal"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03155,
+        "consequent support": 0.1763,
+        "support": 0.00559,
+        "confidence": 0.17717908082408876,
+        "lift": 1.0049862780719725,
+        "leverage": 2.7735000000000086e-05,
+        "conviction": 1.001068374422188,
+        "zhangs_metric": 0.0051231746208255215
+    },
+    {
+        "antecedents": [
+            "Mocha Đá Xay"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03089,
+        "consequent support": 0.1763,
+        "support": 0.00541,
+        "confidence": 0.1751375849789576,
+        "lift": 0.9934066079350969,
+        "leverage": -3.590700000000082e-05,
+        "conviction": 0.9985907770800628,
+        "zhangs_metric": -0.00680212429657929
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Mocha Đá Xay"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03089,
+        "support": 0.00541,
+        "confidence": 0.030686330119115143,
+        "lift": 0.9934066079350968,
+        "leverage": -3.590700000000082e-05,
+        "conviction": 0.9997898823804787,
+        "zhangs_metric": -0.007993323425622447
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Nước suối"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03084,
+        "support": 0.00562,
+        "confidence": 0.03187748156551333,
+        "lift": 1.0336407770918719,
+        "leverage": 0.00018290799999999986,
+        "conviction": 1.0010716428404032,
+        "zhangs_metric": 0.0395118459066524
+    },
+    {
+        "antecedents": [
+            "Nước suối"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03084,
+        "consequent support": 0.1763,
+        "support": 0.00562,
+        "confidence": 0.182230869001297,
+        "lift": 1.0336407770918719,
+        "leverage": 0.00018290799999999986,
+        "conviction": 1.0072524980174464,
+        "zhangs_metric": 0.03358156287229103
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Phần ăn 2 miếng gà rán"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.0267,
+        "support": 0.00693,
+        "confidence": 0.039307997731140104,
+        "lift": 1.4722096528516893,
+        "leverage": 0.0022227899999999997,
+        "conviction": 1.0131238708153747,
+        "zhangs_metric": 0.389400167231902
+    },
+    {
+        "antecedents": [
+            "Phần ăn 2 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.0267,
+        "consequent support": 0.1763,
+        "support": 0.00693,
+        "confidence": 0.2595505617977528,
+        "lift": 1.4722096528516893,
+        "leverage": 0.0022227899999999997,
+        "conviction": 1.1124324734446132,
+        "zhangs_metric": 0.3295478452161899
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Sprite®"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03108,
+        "support": 0.00561,
+        "confidence": 0.0318207600680658,
+        "lift": 1.023833979023996,
+        "leverage": 0.00013059600000000018,
+        "conviction": 1.0007651063331184,
+        "zhangs_metric": 0.028261678262749508
+    },
+    {
+        "antecedents": [
+            "Sprite®"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03108,
+        "consequent support": 0.1763,
+        "support": 0.00561,
+        "confidence": 0.1805019305019305,
+        "lift": 1.0238339790239959,
+        "leverage": 0.00013059600000000018,
+        "conviction": 1.0051274440518256,
+        "zhangs_metric": 0.024025868374093595
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Sữa chua Dâu"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.02949,
+        "support": 0.00518,
+        "confidence": 0.02938173567782189,
+        "lift": 0.9963287784951472,
+        "leverage": -1.9087000000000097e-05,
+        "conviction": 0.9998884583917719,
+        "zhangs_metric": -0.0044534891887332805
+    },
+    {
+        "antecedents": [
+            "Sữa chua Dâu"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.02949,
+        "consequent support": 0.1763,
+        "support": 0.00518,
+        "confidence": 0.17565276364869448,
+        "lift": 0.9963287784951472,
+        "leverage": -1.9087000000000097e-05,
+        "conviction": 0.9992148498560263,
+        "zhangs_metric": -0.003782353619130029
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Sữa chua Kiwi"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03083,
+        "support": 0.00567,
+        "confidence": 0.03216108905275099,
+        "lift": 1.043175123345799,
+        "leverage": 0.00023467099999999966,
+        "conviction": 1.001375320869718,
+        "zhangs_metric": 0.05024667162986123
+    },
+    {
+        "antecedents": [
+            "Sữa chua Kiwi"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03083,
+        "consequent support": 0.1763,
+        "support": 0.00567,
+        "confidence": 0.1839117742458644,
+        "lift": 1.043175123345799,
+        "leverage": 0.00023467099999999966,
+        "conviction": 1.009327146263911,
+        "zhangs_metric": 0.042704771527716186
+    },
+    {
+        "antecedents": [
+            "Sữa tươi"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03092,
+        "consequent support": 0.1763,
+        "support": 0.00585,
+        "confidence": 0.1891979301423027,
+        "lift": 1.0731589911645076,
+        "leverage": 0.000398804,
+        "conviction": 1.0159076186677303,
+        "zhangs_metric": 0.07034674529618186
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Sữa tươi"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03092,
+        "support": 0.00585,
+        "confidence": 0.03318207600680658,
+        "lift": 1.0731589911645079,
+        "leverage": 0.000398804,
+        "conviction": 1.0023397125256674,
+        "zhangs_metric": 0.08276268536071862
+    },
+    {
+        "antecedents": [
+            "Trà Kem Sữa"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.0305,
+        "consequent support": 0.1763,
+        "support": 0.00542,
+        "confidence": 0.1777049180327869,
+        "lift": 1.0079689054610714,
+        "leverage": 4.284999999999966e-05,
+        "conviction": 1.0017085326953747,
+        "zhangs_metric": 0.008154619968066558
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Trà Kem Sữa"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.0305,
+        "support": 0.00542,
+        "confidence": 0.030743051616562676,
+        "lift": 1.0079689054610714,
+        "leverage": 4.284999999999966e-05,
+        "conviction": 1.0002507607677902,
+        "zhangs_metric": 0.009598038192352224
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Trà Vải"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03236,
+        "support": 0.00582,
+        "confidence": 0.033011911514463976,
+        "lift": 1.0201455968622983,
+        "leverage": 0.00011493199999999901,
+        "conviction": 1.0006741670577195,
+        "zhangs_metric": 0.023974464396046967
+    },
+    {
+        "antecedents": [
+            "Trà Vải"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03236,
+        "consequent support": 0.1763,
+        "support": 0.00582,
+        "confidence": 0.17985166872682323,
+        "lift": 1.0201455968622986,
+        "leverage": 0.00011493199999999901,
+        "conviction": 1.004330519969857,
+        "zhangs_metric": 0.02040817486154343
+    },
+    {
+        "antecedents": [
+            "Trà xanh đá xay"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03101,
+        "consequent support": 0.1763,
+        "support": 0.0057,
+        "confidence": 0.1838116736536601,
+        "lift": 1.042607337797278,
+        "leverage": 0.0002329369999999999,
+        "conviction": 1.0092033583563809,
+        "zhangs_metric": 0.04217395468568011
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Trà xanh đá xay"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03101,
+        "support": 0.0057,
+        "confidence": 0.03233125354509359,
+        "lift": 1.042607337797278,
+        "leverage": 0.0002329369999999999,
+        "conviction": 1.0013653985932005,
+        "zhangs_metric": 0.049612893469560736
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Trà Đào"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.03049,
+        "support": 0.00543,
+        "confidence": 0.030799773114010207,
+        "lift": 1.0101598266320173,
+        "leverage": 5.4612999999999363e-05,
+        "conviction": 1.0003196172528823,
+        "zhangs_metric": 0.012210322599973789
+    },
+    {
+        "antecedents": [
+            "Trà Đào"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.03049,
+        "consequent support": 0.1763,
+        "support": 0.00543,
+        "confidence": 0.17809117743522465,
+        "lift": 1.0101598266320173,
+        "leverage": 5.4612999999999363e-05,
+        "conviction": 1.0021792897047086,
+        "zhangs_metric": 0.010373944286906179
+    },
+    {
+        "antecedents": [
+            "Tắc muối mơ ngâm hạt chia"
+        ],
+        "consequents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "antecedent support": 0.0305,
+        "consequent support": 0.1763,
+        "support": 0.0055,
+        "confidence": 0.18032786885245902,
+        "lift": 1.022846675283375,
+        "leverage": 0.000122849999999999,
+        "conviction": 1.0049139999999999,
+        "zhangs_metric": 0.02303905480800769
+    },
+    {
+        "antecedents": [
+            "Kem McSundae™ xốt Sôcôla"
+        ],
+        "consequents": [
+            "Tắc muối mơ ngâm hạt chia"
+        ],
+        "antecedent support": 0.1763,
+        "consequent support": 0.0305,
+        "support": 0.0055,
+        "confidence": 0.031196823596142936,
+        "lift": 1.022846675283375,
+        "leverage": 0.000122849999999999,
+        "conviction": 1.000719262295082,
+        "zhangs_metric": 0.027117110157051663
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "consequents": [
+            "Phần ăn 2 miếng gà rán"
+        ],
+        "antecedent support": 0.14003,
+        "consequent support": 0.0267,
+        "support": 0.00532,
+        "confidence": 0.037991858887381276,
+        "lift": 1.4229160631978006,
+        "leverage": 0.0015811990000000001,
+        "conviction": 1.0117377997179127,
+        "zhangs_metric": 0.3456142157782913
+    },
+    {
+        "antecedents": [
+            "Phần ăn 2 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™"
+        ],
+        "antecedent support": 0.0267,
+        "consequent support": 0.14003,
+        "support": 0.00532,
+        "confidence": 0.199250936329588,
+        "lift": 1.4229160631978006,
+        "leverage": 0.0015811990000000001,
+        "conviction": 1.0739569223573433,
+        "zhangs_metric": 0.30537127005327974
+    },
+    {
+        "antecedents": [
+            "Phần ăn 2 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "antecedent support": 0.0267,
+        "consequent support": 0.13842,
+        "support": 0.00539,
+        "confidence": 0.20187265917602995,
+        "lift": 1.45840672717837,
+        "leverage": 0.0016941859999999999,
+        "conviction": 1.0795019239793524,
+        "zhangs_metric": 0.32294279526816844
+    },
+    {
+        "antecedents": [
+            "Kem Xay Bánh Oreo™ Trà Xanh"
+        ],
+        "consequents": [
+            "Phần ăn 2 miếng gà rán"
+        ],
+        "antecedent support": 0.13842,
+        "consequent support": 0.0267,
+        "support": 0.00539,
+        "confidence": 0.03893945961566248,
+        "lift": 1.45840672717837,
+        "leverage": 0.0016941859999999999,
+        "conviction": 1.0127353679621138,
+        "zhangs_metric": 0.3648183832430051
+    },
+    {
+        "antecedents": [
+            "Kem ốc quế"
+        ],
+        "consequents": [
+            "Phần ăn 2 miếng gà rán"
+        ],
+        "antecedent support": 0.14081,
+        "consequent support": 0.0267,
+        "support": 0.00504,
+        "confidence": 0.03579291243519637,
+        "lift": 1.3405585181721484,
+        "leverage": 0.0012803730000000004,
+        "conviction": 1.0094304559180969,
+        "zhangs_metric": 0.29567646493181016
+    },
+    {
+        "antecedents": [
+            "Phần ăn 2 miếng gà rán"
+        ],
+        "consequents": [
+            "Kem ốc quế"
+        ],
+        "antecedent support": 0.0267,
+        "consequent support": 0.14081,
+        "support": 0.00504,
+        "confidence": 0.1887640449438202,
+        "lift": 1.3405585181721484,
+        "leverage": 0.0012803730000000004,
+        "conviction": 1.059112326869806,
+        "zhangs_metric": 0.2610112626166259
+    }
+]

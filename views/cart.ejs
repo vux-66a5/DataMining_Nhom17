@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Cart - Hungry To Eat</title>
+    <title>My Cart</title>
     <!-- for icons  -->
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
     <!-- bootstrap  -->
@@ -52,19 +52,19 @@
                         <nav class="header-menu">
                             <ul class="menu food-nav-menu">
                                 <li><a href="/homepage">Home</a></li>
-                                <li><a href="#about">About</a></li>
-                                <li><a href="#team">Our Team</a></li>
-                                <li><a href="#testimonials">Testimonials</a></li>
-                                <li><a href="#contact">Contact</a></li>
+<!--                                 <li><a href="#about">About</a></li> -->
+<!--                                 <li><a href="#team">Our Team</a></li> -->
+<!--                                 <li><a href="#testimonials">Testimonials</a></li> -->
+<!--                                 <li><a href="#contact">Contact</a></li> -->
                             </ul>
                         </nav>
                         <div class="header-right">
-                            <form action="#" class="header-search-form for-des">
-                                <input type="search" class="form-input" placeholder="Search Here...">
-                                <button type="submit">
-                                    <i class="uil uil-search"></i>
-                                </button>
-                            </form>
+<!--                             <form action="#" class="header-search-form for-des"> -->
+<!--                                 <input type="search" class="form-input" placeholder="Search Here..."> -->
+<!--                                 <button type="submit"> -->
+<!--                                     <i class="uil uil-search"></i> -->
+<!--                                 </button> -->
+<!--                             </form> -->
                             <a href="javascript:void(0)" class="header-btn header-cart">
                                 <i class="uil uil-shopping-bag"></i>
                                 <span class="cart-number" id="cart-number-count">
@@ -172,48 +172,102 @@
                                                     </tfoot>
                                                 </table>
                                 </div>
-                            </div><br><br>
-                            <input type="submit" value="Mua ngay" class="sec-btn"
-                                style="margin-left: 43% ; width:20% ;color: white; background: orange;">
-                        </form>
+                            </div>
+                            <br><br>
+<!--                             <input type="submit" value="Mua ngay" class="sec-btn" -->
+<!--                                 style="margin-left: 43% ; width:20% ;color: white; background: orange;"> -->
+<!--                         </form> -->
+<!--                     </div> -->
+<!--                 </div> -->
+<!--             </section> -->
+<!--              --><!-- My Cart ends  -->
+
+
+<!--              --><!-- Bạn có thể truy cập biến recommendedProducts như bất kỳ biến nào khác -->
+<!--             <h3 style="font-size: 36px; color: #333; text-align: center; margin-top: 20px; margin-bottom: 20px;">Có thể bạn sẽ muốn order cùng</h1><br><br> -->
+
+
+<!-- <div class="row"> -->
+<!--     <% productInfos.forEach(productInfo => { %> -->
+<!--         <div class="col-lg-4 col-md-6"> -->
+<!--             <div class="dish-box text-center"> -->
+<!--                 <div class="dist-img"> -->
+<!--                     <img src="/images/dish/<%= productInfo.item_img %>" -->
+<!--                          alt="<%= productInfo.item_name %>" -->
+<!--                          width="250px" -->
+<!--                          height="250px"> -->
+<!--                 </div> -->
+
+<!--                 <div class="dish-title"> -->
+<!--                     <h3 class="h3-title"> -->
+<!--                         <%= productInfo.item_name %> -->
+<!--                     </h3> -->
+<!--                     <p> -->
+<!--                         Price: <%= productInfo.item_price %> -->
+<!--                     </p> -->
+<!--                 </div> -->
+
+<!--                 <div class="dist-bottom-row"> -->
+<!--                     <ul> -->
+<!--                         <li> -->
+<!--                             <b> <%= productInfo.item_price %> đ</b> -->
+<!--                         </li> -->
+<!--                         <li> -->
+<!--                             <button class="dish-add-btn" id="btn<%= productInfo.item_id %>" -->
+<!--                                     onClick="addToCart(<%= productInfo.item_id %>)"> -->
+<!--                                 <i class="uil uil-plus"></i> -->
+<!--                             </button> -->
+<!--                         </li> -->
+<!--                     </ul> -->
+<!--                 </div> -->
+<!--                  --><!-- Các thông tin khác của sản phẩm -->
+<!--             </div> -->
+<!--         </div> -->
+<!--     <% }); %> -->
+<!-- </div> -->
+
+<!-- Bạn có thể truy cập biến recommendedProducts như bất kỳ biến nào khác -->
+<h3 style="font-size: 36px; color: #333; text-align: center; margin-top: 20px; margin-bottom: 20px;">Có thể bạn sẽ muốn order cùng</h1>
+    <div class="row">
+        <% productInfos.forEach(productInfo => { %>
+            <div class="col-lg-4 col-md-6">
+                <div class="dish-box text-center">
+                    <div class="dist-img">
+                        <img src="/images/dish/<%= productInfo.item_img %>"
+                        alt="<%= productInfo.item_name %>"
+                        width="250px"
+                        height="250px">
                     </div>
+
+                    <div class="dish-title">
+                        <h3 class="h3-title">
+                            <%= productInfo.item_name %>
+                        </h3>
+                        <ul>
+                            <li>
+                                <p>Price: <%= productInfo.item_price %></p>
+                            </li>
+                            <li>
+                                <button class="dish-add-btn" id="btn<%= productInfo.item_id %>"
+                                    onClick="addToCart(<%= productInfo.item_id %>)">
+                                    <i class="uil uil-plus"></i>
+                                </button>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- Các thông tin khác của sản phẩm -->
                 </div>
-            </section>
-            <!-- My Cart ends  -->
-
-
-            <!-- Bạn có thể truy cập biến recommendedProducts như bất kỳ biến nào khác -->
-            <h3 style="font-size: 36px; color: #333; text-align: center; margin-top: 20px; margin-bottom: 20px;">Có thể bạn sẽ muốn order cùng</h1>
-
-
-<div class="row">
-    <% productInfos.forEach(productInfo => { %>
-        <div class="col-lg-4 col-md-6">
-            <div class="dish-box text-center">
-                <div class="dist-img">
-                    <img src="/images/dish/<%= productInfo.item_img %>"
-                     alt="<%= productInfo.item_name %>"
-                     width="250px"
-                    height="250px">
-                </div>
-               
-                <div class="dish-title">
-                    <h3 class="h3-title">
-                        <%= productInfo.item_name %>
-                    </h3>
-                    <p>
-                        Price: <%= productInfo.item_price %>
-                    </p>
-                </div>
-                
-                <!-- Các thông tin khác của sản phẩm -->
             </div>
-        </div>
-    <% }); %>
+        <% }); %>
+    </div>
+<br><br>
+<input type="submit" value="Mua ngay" class="sec-btn"
+    style="margin-left: 40% ; width:20% ;color: white; background: orange;">
+</form>
 </div>
-
-
-
+</div>
+</section>
+<!-- My Cart ends  -->
 
 
             <!-- footer starts  -->
@@ -225,16 +279,18 @@
                                 <div class="col-lg-4">
                                     <div class="footer-info">
                                         <div class="footer-logo">
-                                            <a href="index.html">
+                                            <a href="/logout">
                                                 <img src="/images/logo.png" alt="">
                                             </a>
                                         </div>
-                                        <p>You’ll wonder how you ever lived without us.</p>
+                                        <p>Eat, eat, eat</p>
                                         <div class="social-icon">
                                             <ul>
-                                                <li><a href="#"><i class="uil uil-facebook-f"></i></a></li>
-                                                <li><a href="#"><i class="uil uil-instagram"></i></a></li>
-                                                <li><a href="#"><i class="uil uil-youtube"></i></a></li>
+<!--                                                 <li><a href="#"><i class="uil uil-facebook-f"></i></a></li> -->
+<!--                                                 <li><a href="#"><i class="uil uil-instagram"></i></a></li> -->
+<!--                                                 <li><a href="#"><i class="uil uil-youtube"></i></a></li> -->
+                                                <li><a href="https://github.com/vux-66a5/DataMining_Nhom17"><i class="uil uil-github"></i></a></li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -242,25 +298,25 @@
                                 <div class="col-lg-8">
                                     <div class="footer-flex-box">
                                         <div class="footer-table-info">
-                                            <h3 class="h3-title">open hours</h3>
+                                            <h3 class="h3-title">Giờ mở cửa</h3>
                                             <ul>
-                                                <li><i class="uil uil-clock"></i> Mon-Thurs : 9am - 22pm</li>
-                                                <li><i class="uil uil-clock"></i> Fri-Sun : 11am - 22pm</li>
+                                                <li><i class="uil uil-clock"></i> Thứ 2 đến thứ 5: 9 giờ sáng - 10 giờ tối</li>
+                                                <li><i class="uil uil-clock"></i> Thứ 6 đến Chủ nhật: 11 giờ trưa - 10 giờ tối</li>
                                             </ul>
                                         </div>
-                                        <div class="footer-menu food-nav-menu">
-                                            <h3 class="h3-title">Links</h3>
-                                            <ul class="column-2">
-                                                <li> <a href="index.html" class="footer-active-menu">Home</a></li>
-                                                <li><a href="#about">About</a></li>
-                                                <li><a href="#team">Our Team</a></li>
-                                                <li><a href="#testimonials">Testimonials</a></li>
-                                                <li><a href="#contact">Contact</a></li>
+<!--                                         <div class="footer-menu food-nav-menu"> -->
+<!--                                             <h3 class="h3-title">Links</h3> -->
+<!--                                             <ul class="column-2"> -->
+<!--                                                 <li> <a href="/index.ejs" class="footer-active-menu">Home</a></li> -->
+<!--                                                 <li><a href="#about">About</a></li> -->
+<!--                                                 <li><a href="#team">Our Team</a></li> -->
+<!--                                                 <li><a href="#testimonials">Testimonials</a></li> -->
+<!--                                                 <li><a href="#contact">Contact</a></li> -->
 
-                                            </ul>
-                                        </div>
+<!--                                             </ul> -->
+<!--                                         </div> -->
                                         <div class="footer-menu">
-                                            <h3 class="h3-title">Company</h3>
+                                            <h3 class="h3-title">Cửa hàng</h3>
                                             <ul>
                                                 <li><a href="#">Terms & Conditions</a></li>
                                                 <li><a href="#">Privacy Policy</a></li>
@@ -278,19 +334,18 @@
                         <div class="row">
                             <div class="col-lg-12 text-center">
                                 <div class="copyright-text">
-                                    <p>Copyright &copy; 2022 <span class="name">Hungry To Eat </span>All Rights
+                                    <p>Copyright &copy; 2024 <span class="name">Nhóm 17 </span>All Rights
                                         Reserved.
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <button class="scrolltop"><i class="uil uil-angle-up"></i></button>
+                        <button class="scrolltop"><a href="#"><i class="uil uil-angle-up"></i></a></button>
                     </div>
                 </div>
             </footer>
         </div>
     </div>
-
     <!-- My Script -->
     <script>
 
