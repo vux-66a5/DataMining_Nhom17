@@ -6,6 +6,7 @@ const ejs = require("ejs");
 const fileUpload = require("express-fileupload");
 const { v4: uuidv4 } = require("uuid");
 const mysql = require("mysql");
+const fs = require('fs');
 
 // Initialize Express App
 const app = express();
@@ -57,6 +58,7 @@ app.get("/admin_view_dispatch_orders", renderViewDispatchOrdersPage);
 app.post("/admin_view_dispatch_orders", dispatchOrders);
 app.get("/admin_change_price", renderChangePricePage);
 app.post("/admin_change_price", changePrice);
+app.get("/admin_dashboard", renderDashboardPage);
 app.get("/logout", logout);
 
 /***************************** Route Handlers ***************************/
@@ -227,52 +229,86 @@ function updateCart(req, res) {
   console.log("Updated Item IDs:", updatedItemIds);
 
   // Update cart logic if necessary
-} 
-
-
-// Tạo một hàm để đề xuất sản phẩm dựa trên các ID sản phẩm đã được cập nhật
-function recommendProducts(updatedItemIds) {
-  // Giả sử rằng bạn đã có dữ liệu của các luật kết hợp từ thuật toán Apriori
-  // Trong ví dụ này, dữ liệu được đại diện bằng một mảng các đối tượng, mỗi đối tượng có các trường itemSet và confidence
-  const associationRules = [
-    { itemSet: [1, 2], confidence: 0.8 },
-    { itemSet: [2, 3], confidence: 0.6 },
-    // Thêm các luật kết hợp khác nếu cần thiết
-  ];
-
-  // Tạo một đối tượng để lưu trữ các sản phẩm được đề xuất và mức độ tin cậy của chúng
-  const recommendedProducts = {};
-
-  // Duyệt qua từng luật kết hợp
-  associationRules.forEach(rule => {
-    // Kiểm tra xem luật có chứa ít nhất một sản phẩm đã được cập nhật không
-    if (rule.itemSet.some(item => updatedItemIds.includes(item))) {
-      // Duyệt qua từng sản phẩm trong luật kết hợp
-      rule.itemSet.forEach(item => {
-        // Kiểm tra xem sản phẩm đã được cập nhật và không được đề xuất trước đó
-        if (!updatedItemIds.includes(item) && !recommendedProducts[item]) {
-          // Thêm sản phẩm vào danh sách đề xuất với mức độ tin cậy tương ứng
-          recommendedProducts[item] = rule.confidence;
-        }
-      });
-    }
-  });
-
-  // Sắp xếp các sản phẩm theo mức độ tin cậy giảm dần
-  const sortedRecommendedProducts = Object.entries(recommendedProducts)
-    .sort((a, b) => b[1] - a[1])
-    .map(([productId, confidence]) => ({
-      productId: parseInt(productId),
-      confidence: confidence
-    }));
-
-  return sortedRecommendedProducts;
 }
 
+
+// // Tạo một hàm để đề xuất sản phẩm dựa trên các ID sản phẩm đã được cập nhật
+// function recommendProducts(updatedItemIds) {
+//   // Giả sử rằng bạn đã có dữ liệu của các luật kết hợp từ thuật toán Apriori
+//   // Trong ví dụ này, dữ liệu được đại diện bằng một mảng các đối tượng, mỗi đối tượng có các trường itemSet và confidence
+//   const associationRules = [
+//     { itemSet: [1, 2], confidence: 0.8 },
+//     { itemSet: [2, 3], confidence: 0.6 },
+//     { itemSet: [20,21], confidence: 0.6}
+//     // Thêm các luật kết hợp khác nếu cần thiết
+//   ];
+//
+//   // Tạo một đối tượng để lưu trữ các sản phẩm được đề xuất và mức độ tin cậy của chúng
+//   const recommendedProducts = {};
+//
+//   // Duyệt qua từng luật kết hợp
+//   associationRules.forEach(rule => {
+//     // Kiểm tra xem luật có chứa ít nhất một sản phẩm đã được cập nhật không
+//     if (rule.itemSet.some(item => updatedItemIds.includes(item))) {
+//       // Duyệt qua từng sản phẩm trong luật kết hợp
+//       rule.itemSet.forEach(item => {
+//         // Kiểm tra xem sản phẩm đã được cập nhật và không được đề xuất trước đó
+//         if (!updatedItemIds.includes(item) && !recommendedProducts[item]) {
+//           // Thêm sản phẩm vào danh sách đề xuất với mức độ tin cậy tương ứng
+//           recommendedProducts[item] = rule.confidence;
+//         }
+//       });
+//     }
+//   });
+//
+//   // Sắp xếp các sản phẩm theo mức độ tin cậy giảm dần
+//   const sortedRecommendedProducts = Object.entries(recommendedProducts)
+//     .sort((a, b) => b[1] - a[1])
+//     .map(([productId, confidence]) => ({
+//       productId: parseInt(productId),
+//       confidence: confidence
+//     }));
+//
+//   return sortedRecommendedProducts;
+// }
+
 // Sử dụng hàm recommendProducts để đề xuất sản phẩm dựa trên mảng updatedItemIds
+function recommendProducts(updatedItemIds) {
+    // Đọc dữ liệu từ file rules.json
+    const data = fs.readFileSync('data/mcdonald/rules.json');
 
+    // Chuyển đổi dữ liệu JSON sang đối tượng JavaScript
+    const rules = JSON.parse(data);
 
+    const recommendedProducts = {};
 
+    // Duyệt qua từng luật kết hợp
+    rules.forEach(rule => {
+      const antecedents = rule.antecedents.map(Number);
+      const consequents = rule.consequents.map(Number);
+
+      // Kiểm tra xem antecedents có chứa ít nhất một sản phẩm đã được cập nhật không
+      if (antecedents.some(item => updatedItemIds.includes(item))) {
+        // Kiểm tra consequents
+        consequents.forEach(item => {
+          if (!updatedItemIds.includes(item) && !recommendedProducts[item]) {
+            // Thêm sản phẩm vào danh sách đề xuất với mức độ tin cậy tương ứng
+            recommendedProducts[item] = rule.confidence;
+          }
+        });
+      }
+    });
+
+    // Sắp xếp các sản phẩm theo mức độ tin cậy giảm dần
+    const sortedRecommendedProducts = Object.entries(recommendedProducts)
+      .sort((a, b) => b[1] - a[1])
+      .map(([productId, confidence]) => ({
+        productId: parseInt(productId),
+        confidence: confidence
+      }));
+
+    return sortedRecommendedProducts;
+}
 
 
 // Function to fetch details of items in the cart
@@ -316,7 +352,7 @@ function checkout(req, res) {
           itemid.forEach((item, index) => {
             if (quantity[index] != 0) {
               connection.query(
-                "INSERT INTO orders (order_id, user_id, item_id, quantity, price, datetime) VALUES (?, ?, ?, ?, ?, ?)",
+                "INSERT INTO orders (order_id, user_id, item_id, quantity, price, order_time) VALUES (?, ?, ?, ?, ?, ?)",
                 [
                   uuidv4(),
                   userid,
@@ -337,7 +373,7 @@ function checkout(req, res) {
         } else {
           if (quantity != 0) {
             connection.query(
-              "INSERT INTO orders (order_id, user_id, item_id, quantity, price, datetime) VALUES (?, ?, ?, ?, ?, ?)",
+              "INSERT INTO orders (order_id, user_id, item_id, quantity, price, order_time) VALUES (?, ?, ?, ?, ?, ?)",
               [
                 uuidv4(),
                 userid,
@@ -359,6 +395,7 @@ function checkout(req, res) {
         citems = [];
         citemdetails = [];
         item_in_cart = 0;
+        updatedItemIds = [];
         getItemDetails(citems, 0);
         res.render("confirmation", { username: userName, userid: userId });
       } else {
@@ -395,7 +432,7 @@ function renderMyOrdersPage(req, res) {
     function (error, resultUser) {
       if (!error && resultUser.length) {
         connection.query(
-          "SELECT order_dispatch.order_id, order_dispatch.user_id, order_dispatch.quantity, order_dispatch.price, order_dispatch.datetime, menu.item_id, menu.item_name, menu.item_img FROM order_dispatch, menu WHERE order_dispatch.user_id = ? AND menu.item_id = order_dispatch.item_id ORDER BY order_dispatch.datetime DESC",
+          "SELECT order_dispatch.order_id, order_dispatch.user_id, order_dispatch.quantity, order_dispatch.price, order_dispatch.done_time, menu.item_id, menu.item_name, menu.item_img FROM order_dispatch, menu WHERE order_dispatch.user_id = ? AND menu.item_id = order_dispatch.item_id ORDER BY order_dispatch.done_time DESC",
           [userId],
           function (error, results) {
             if (!error) {
@@ -595,12 +632,8 @@ function renderAddFoodPage(req, res) {
 function addFood(req, res) {
   const {
     FoodName,
-    FoodType,
     FoodCategory,
-    FoodServing,
-    FoodCalories,
-    FoodPrice,
-    FoodRating,
+    FoodPrice
   } = req.body;
   if (!req.files) {
     return res.status(400).send("Image was not uploaded");
@@ -613,16 +646,12 @@ function addFood(req, res) {
         return res.status(500).send(err);
       }
       connection.query(
-        "INSERT INTO menu (item_name, item_type, item_category, item_serving, item_calories, item_price, item_rating, item_img) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+        "INSERT INTO menu (item_name, item_category, item_price, item_img) VALUES (?, ?, ?, ?)",
         [
           FoodName,
-          FoodType,
           FoodCategory,
-          FoodServing,
-          FoodCalories,
           FoodPrice,
-          FoodRating,
-          fimage_name,
+          fimage_name
         ],
         function (error, results) {
           if (error) {
@@ -642,26 +671,21 @@ function addFood(req, res) {
 function renderViewDispatchOrdersPage(req, res) {
   const userId = req.cookies.cookuid;
   const userName = req.cookies.cookuname;
-  connection.query(
-    "SELECT admin_id, admin_name FROM admin WHERE admin_id = ? and admin_name = ?",
-    [userId, userName],
-    function (error, results) {
-      if (!error && results.length) {
-        connection.query(
-          "SELECT * FROM orders ORDER BY datetime",
-          function (error, results2) {
-            res.render("admin_view_dispatch_orders", {
-              username: userName,
-              userid: userId,
-              orders: results2,
-            });
-          }
-        );
-      } else {
-        res.render("admin_signin");
-      }
+connection.query(
+  "SELECT o.order_id, o.user_id, m.item_name, o.quantity, o.price, o.order_time FROM orders o JOIN menu m ON o.item_id = m.item_id ORDER BY o.order_time",
+  function (error, results2) {
+    if (!error) {
+      res.render("admin_view_dispatch_orders", {
+        username: userName,
+        userid: userId,
+        orders: results2,
+      });
+    } else {
+      console.error("Error fetching orders:", error);
+      res.render("admin_signin");
     }
-  );
+  }
+);
 }
 
 // Dispatch Orders
@@ -676,7 +700,7 @@ function dispatchOrders(req, res) {
         if (!error && resultsItem.length) {
           const currDate = new Date();
           connection.query(
-            "INSERT INTO order_dispatch (order_id, user_id, item_id, quantity, price, datetime) VALUES (?, ?, ?, ?, ?, ?)",
+            "INSERT INTO order_dispatch (order_id, user_id, item_id, quantity, price, done_time) VALUES (?, ?, ?, ?, ?, ?)",
             [
               resultsItem[0].order_id,
               resultsItem[0].user_id,
@@ -708,7 +732,7 @@ function dispatchOrders(req, res) {
     );
   });
   connection.query(
-    "SELECT * FROM orders ORDER BY datetime",
+    "SELECT * FROM orders ORDER BY order_time",
     function (error, results2_dis) {
       res.render("admin_view_dispatch_orders", {
         username: req.cookies.cookuname,
@@ -770,6 +794,39 @@ function changePrice(req, res) {
   );
 }
 
+function renderDashboardPage(req, res) {
+  const userId = req.cookies.cookuid;
+  const userName = req.cookies.cookuname;
+  connection.query(
+    "SELECT admin_id, admin_name FROM admin WHERE admin_id = ? and admin_name = ?",
+    [userId, userName],
+    function (error, results) {
+      if (!error && results.length) {
+        connection.query(
+          "SELECT SUM(quantity * price) AS total_revenue FROM order_dispatch",
+          function (error2, results2) {
+            if (!error2) {
+              connection.query(
+                "SELECT menu.item_name, SUM(order_dispatch.quantity) AS total_quantity, RANK() OVER (ORDER BY SUM(order_dispatch.quantity) DESC) AS rank FROM order_dispatch JOIN menu ON order_dispatch.item_id = menu.item_id GROUP BY menu.item_name ORDER BY total_quantity DESC;",
+                function (error3, results3) {
+                  if (!error3) {
+                    res.render("admin_dashboard", {
+                      username: userName,
+                      not_items: results2[0].total_revenue,
+                      rank: results3
+                    });
+                  }
+                }
+              )
+
+            }
+        });
+      } else {
+        res.render("signin");
+      }
+    }
+  );
+}
 
 // Logout
 function logout(req, res) {

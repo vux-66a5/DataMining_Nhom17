@@ -1,10 +1,10 @@
 [
     {
         "antecedents": [
-            "1 miếng gà rán - 183 Kcal"
+            "32"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.02713,
         "consequent support": 0.17618,
@@ -17,10 +17,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "1 miếng gà rán - 183 Kcal"
+            "32"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.02713,
@@ -33,10 +33,10 @@
     },
     {
         "antecedents": [
-            "1 miếng gà rán - 183 Kcal"
+            "32"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.02713,
         "consequent support": 0.1763,
@@ -49,10 +49,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "1 miếng gà rán - 183 Kcal"
+            "32"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.02713,
@@ -65,10 +65,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "1 miếng gà rán - 183 Kcal"
+            "32"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.02713,
@@ -81,10 +81,10 @@
     },
     {
         "antecedents": [
-            "1 miếng gà rán - 183 Kcal"
+            "32"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.02713,
         "consequent support": 0.14003,
@@ -97,10 +97,10 @@
     },
     {
         "antecedents": [
-            "1 miếng gà rán - 183 Kcal"
+            "32"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.02713,
         "consequent support": 0.13842,
@@ -113,10 +113,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "1 miếng gà rán - 183 Kcal"
+            "32"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.02713,
@@ -129,10 +129,10 @@
     },
     {
         "antecedents": [
-            "10 Miếng Cánh Gà McWings™"
+            "26"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.02788,
         "consequent support": 0.17618,
@@ -145,10 +145,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "10 Miếng Cánh Gà McWings™"
+            "26"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.02788,
@@ -161,10 +161,10 @@
     },
     {
         "antecedents": [
-            "10 Miếng Cánh Gà McWings™"
+            "26"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.02788,
         "consequent support": 0.1763,
@@ -177,10 +177,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "10 Miếng Cánh Gà McWings™"
+            "26"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.02788,
@@ -193,10 +193,10 @@
     },
     {
         "antecedents": [
-            "10 Miếng Cánh Gà McWings™"
+            "26"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.02788,
         "consequent support": 0.14003,
@@ -209,10 +209,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "10 Miếng Cánh Gà McWings™"
+            "26"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.02788,
@@ -225,10 +225,10 @@
     },
     {
         "antecedents": [
-            "10 Miếng Cánh Gà McWings™"
+            "26"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.02788,
         "consequent support": 0.13842,
@@ -241,10 +241,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "10 Miếng Cánh Gà McWings™"
+            "26"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.02788,
@@ -257,10 +257,10 @@
     },
     {
         "antecedents": [
-            "10 Miếng Cánh Gà McWings™"
+            "26"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.02788,
         "consequent support": 0.14081,
@@ -273,10 +273,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "10 Miếng Cánh Gà McWings™"
+            "26"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.02788,
@@ -289,10 +289,10 @@
     },
     {
         "antecedents": [
-            "20 miếng  Gà McNuggets™"
+            "25"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.02737,
         "consequent support": 0.17618,
@@ -305,10 +305,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "20 miếng  Gà McNuggets™"
+            "25"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.02737,
@@ -321,10 +321,10 @@
     },
     {
         "antecedents": [
-            "20 miếng  Gà McNuggets™"
+            "25"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.02737,
         "consequent support": 0.1763,
@@ -337,10 +337,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "20 miếng  Gà McNuggets™"
+            "25"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.02737,
@@ -353,10 +353,10 @@
     },
     {
         "antecedents": [
-            "20 miếng  Gà McNuggets™"
+            "25"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.02737,
         "consequent support": 0.13842,
@@ -369,10 +369,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "20 miếng  Gà McNuggets™"
+            "25"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.02737,
@@ -385,10 +385,10 @@
     },
     {
         "antecedents": [
-            "20 miếng  Gà McNuggets™"
+            "25"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.02737,
         "consequent support": 0.14081,
@@ -401,10 +401,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "20 miếng  Gà McNuggets™"
+            "25"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.02737,
@@ -417,10 +417,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "3 miếng  Cánh Gà McWings™"
+            "29"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.02782,
@@ -433,10 +433,10 @@
     },
     {
         "antecedents": [
-            "3 miếng  Cánh Gà McWings™"
+            "29"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.02782,
         "consequent support": 0.17618,
@@ -449,10 +449,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "3 miếng  Cánh Gà McWings™"
+            "29"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.02782,
@@ -465,10 +465,10 @@
     },
     {
         "antecedents": [
-            "3 miếng  Cánh Gà McWings™"
+            "29"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.02782,
         "consequent support": 0.1763,
@@ -481,10 +481,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "3 miếng  Cánh Gà McWings™"
+            "29"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.02782,
@@ -497,10 +497,10 @@
     },
     {
         "antecedents": [
-            "3 miếng  Cánh Gà McWings™"
+            "29"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.02782,
         "consequent support": 0.14003,
@@ -513,10 +513,10 @@
     },
     {
         "antecedents": [
-            "3 miếng  Cánh Gà McWings™"
+            "29"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.02782,
         "consequent support": 0.13842,
@@ -529,10 +529,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "3 miếng  Cánh Gà McWings™"
+            "29"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.02782,
@@ -545,10 +545,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "3 miếng  Cánh Gà McWings™"
+            "29"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.02782,
@@ -561,10 +561,10 @@
     },
     {
         "antecedents": [
-            "3 miếng  Cánh Gà McWings™"
+            "29"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.02782,
         "consequent support": 0.14081,
@@ -577,10 +577,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "3 miếng gà rán"
+            "33"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.02735,
@@ -593,10 +593,10 @@
     },
     {
         "antecedents": [
-            "3 miếng gà rán"
+            "33"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.02735,
         "consequent support": 0.17618,
@@ -609,10 +609,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "3 miếng gà rán"
+            "33"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.02735,
@@ -625,10 +625,10 @@
     },
     {
         "antecedents": [
-            "3 miếng gà rán"
+            "33"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.02735,
         "consequent support": 0.1763,
@@ -641,10 +641,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "3 miếng gà rán"
+            "33"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.02735,
@@ -657,10 +657,10 @@
     },
     {
         "antecedents": [
-            "3 miếng gà rán"
+            "33"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.02735,
         "consequent support": 0.14003,
@@ -673,10 +673,10 @@
     },
     {
         "antecedents": [
-            "3 miếng gà rán"
+            "33"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.02735,
         "consequent support": 0.13842,
@@ -689,10 +689,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "3 miếng gà rán"
+            "33"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.02735,
@@ -705,10 +705,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "3 miếng gà rán"
+            "33"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.02735,
@@ -721,10 +721,10 @@
     },
     {
         "antecedents": [
-            "3 miếng gà rán"
+            "33"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.02735,
         "consequent support": 0.14081,
@@ -737,10 +737,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "5 miếng gà rán"
+            "31"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.0268,
@@ -753,10 +753,10 @@
     },
     {
         "antecedents": [
-            "5 miếng gà rán"
+            "31"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.0268,
         "consequent support": 0.17618,
@@ -769,10 +769,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "5 miếng gà rán"
+            "31"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.0268,
@@ -785,10 +785,10 @@
     },
     {
         "antecedents": [
-            "5 miếng gà rán"
+            "31"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.0268,
         "consequent support": 0.1763,
@@ -801,10 +801,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "5 miếng gà rán"
+            "31"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.0268,
@@ -817,10 +817,10 @@
     },
     {
         "antecedents": [
-            "5 miếng gà rán"
+            "31"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.0268,
         "consequent support": 0.14003,
@@ -833,10 +833,10 @@
     },
     {
         "antecedents": [
-            "5 miếng gà rán"
+            "31"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.0268,
         "consequent support": 0.13842,
@@ -849,10 +849,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "5 miếng gà rán"
+            "31"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.0268,
@@ -865,10 +865,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "5 miếng gà rán"
+            "31"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.0268,
@@ -881,10 +881,10 @@
     },
     {
         "antecedents": [
-            "5 miếng gà rán"
+            "31"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.0268,
         "consequent support": 0.14081,
@@ -897,10 +897,10 @@
     },
     {
         "antecedents": [
-            "6 Miếng Cánh Gà McWings™"
+            "28"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.02769,
         "consequent support": 0.17618,
@@ -913,10 +913,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "6 Miếng Cánh Gà McWings™"
+            "28"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.02769,
@@ -929,10 +929,10 @@
     },
     {
         "antecedents": [
-            "6 Miếng Cánh Gà McWings™"
+            "28"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.02769,
         "consequent support": 0.1763,
@@ -945,10 +945,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "6 Miếng Cánh Gà McWings™"
+            "28"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.02769,
@@ -961,10 +961,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "6 Miếng Cánh Gà McWings™"
+            "28"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.02769,
@@ -977,10 +977,10 @@
     },
     {
         "antecedents": [
-            "6 Miếng Cánh Gà McWings™"
+            "28"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.02769,
         "consequent support": 0.14003,
@@ -993,10 +993,10 @@
     },
     {
         "antecedents": [
-            "6 Miếng Cánh Gà McWings™"
+            "28"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.02769,
         "consequent support": 0.13842,
@@ -1009,10 +1009,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "6 Miếng Cánh Gà McWings™"
+            "28"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.02769,
@@ -1025,10 +1025,10 @@
     },
     {
         "antecedents": [
-            "6 Miếng Cánh Gà McWings™"
+            "28"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.02769,
         "consequent support": 0.14081,
@@ -1041,10 +1041,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "6 Miếng Cánh Gà McWings™"
+            "28"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.02769,
@@ -1057,10 +1057,10 @@
     },
     {
         "antecedents": [
-            "6 miếng Gà McNuggets™"
+            "27"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.02711,
         "consequent support": 0.17618,
@@ -1073,10 +1073,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "6 miếng Gà McNuggets™"
+            "27"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.02711,
@@ -1089,10 +1089,10 @@
     },
     {
         "antecedents": [
-            "6 miếng Gà McNuggets™"
+            "27"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.02711,
         "consequent support": 0.1763,
@@ -1105,10 +1105,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "6 miếng Gà McNuggets™"
+            "27"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.02711,
@@ -1121,10 +1121,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "6 miếng Gà McNuggets™"
+            "27"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.02711,
@@ -1137,10 +1137,10 @@
     },
     {
         "antecedents": [
-            "6 miếng Gà McNuggets™"
+            "27"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.02711,
         "consequent support": 0.14003,
@@ -1153,10 +1153,10 @@
     },
     {
         "antecedents": [
-            "6 miếng Gà McNuggets™"
+            "27"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.02711,
         "consequent support": 0.13842,
@@ -1169,10 +1169,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "6 miếng Gà McNuggets™"
+            "27"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.02711,
@@ -1185,10 +1185,10 @@
     },
     {
         "antecedents": [
-            "6 miếng Gà McNuggets™"
+            "27"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.02711,
         "consequent support": 0.14081,
@@ -1201,10 +1201,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "6 miếng Gà McNuggets™"
+            "27"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.02711,
@@ -1217,10 +1217,10 @@
     },
     {
         "antecedents": [
-            "9 miếng  Gà McNuggets™"
+            "30"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.02756,
         "consequent support": 0.17618,
@@ -1233,10 +1233,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "9 miếng  Gà McNuggets™"
+            "30"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.02756,
@@ -1249,10 +1249,10 @@
     },
     {
         "antecedents": [
-            "9 miếng  Gà McNuggets™"
+            "30"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.02756,
         "consequent support": 0.1763,
@@ -1265,10 +1265,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "9 miếng  Gà McNuggets™"
+            "30"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.02756,
@@ -1281,10 +1281,10 @@
     },
     {
         "antecedents": [
-            "9 miếng  Gà McNuggets™"
+            "30"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.02756,
         "consequent support": 0.14003,
@@ -1297,10 +1297,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "9 miếng  Gà McNuggets™"
+            "30"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.02756,
@@ -1313,10 +1313,10 @@
     },
     {
         "antecedents": [
-            "9 miếng  Gà McNuggets™"
+            "30"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.02756,
         "consequent support": 0.13842,
@@ -1329,10 +1329,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "9 miếng  Gà McNuggets™"
+            "30"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.02756,
@@ -1345,10 +1345,10 @@
     },
     {
         "antecedents": [
-            "9 miếng  Gà McNuggets™"
+            "30"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.02756,
         "consequent support": 0.14081,
@@ -1361,10 +1361,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "9 miếng  Gà McNuggets™"
+            "30"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.02756,
@@ -1377,10 +1377,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "9 miếng gà rán"
+            "34"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.02659,
@@ -1393,10 +1393,10 @@
     },
     {
         "antecedents": [
-            "9 miếng gà rán"
+            "34"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.02659,
         "consequent support": 0.17618,
@@ -1409,10 +1409,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "9 miếng gà rán"
+            "34"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.02659,
@@ -1425,10 +1425,10 @@
     },
     {
         "antecedents": [
-            "9 miếng gà rán"
+            "34"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.02659,
         "consequent support": 0.1763,
@@ -1441,10 +1441,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "9 miếng gà rán"
+            "34"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.02659,
@@ -1457,10 +1457,10 @@
     },
     {
         "antecedents": [
-            "9 miếng gà rán"
+            "34"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.02659,
         "consequent support": 0.14003,
@@ -1473,10 +1473,10 @@
     },
     {
         "antecedents": [
-            "9 miếng gà rán"
+            "34"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.02659,
         "consequent support": 0.13842,
@@ -1489,10 +1489,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "9 miếng gà rán"
+            "34"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.02659,
@@ -1505,10 +1505,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Burger Gà Nhỏ Mayo"
+            "2"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.05641,
@@ -1521,10 +1521,10 @@
     },
     {
         "antecedents": [
-            "Burger Gà Nhỏ Mayo"
+            "2"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.05641,
         "consequent support": 0.17618,
@@ -1537,10 +1537,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Burger Gà Nhỏ Mayo"
+            "2"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.05641,
@@ -1553,10 +1553,10 @@
     },
     {
         "antecedents": [
-            "Burger Gà Nhỏ Mayo"
+            "2"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.05641,
         "consequent support": 0.1763,
@@ -1569,10 +1569,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "Burger Gà Nhỏ Mayo"
+            "2"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.05641,
@@ -1585,10 +1585,10 @@
     },
     {
         "antecedents": [
-            "Burger Gà Nhỏ Mayo"
+            "2"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.05641,
         "consequent support": 0.14003,
@@ -1601,10 +1601,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "Burger Gà Nhỏ Mayo"
+            "2"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.05641,
@@ -1617,10 +1617,10 @@
     },
     {
         "antecedents": [
-            "Burger Gà Nhỏ Mayo"
+            "2"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.05641,
         "consequent support": 0.13842,
@@ -1633,10 +1633,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "Burger Gà Nhỏ Mayo"
+            "2"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.05641,
@@ -1649,10 +1649,10 @@
     },
     {
         "antecedents": [
-            "Burger Gà Nhỏ Mayo"
+            "2"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.05641,
         "consequent support": 0.14081,
@@ -1665,10 +1665,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Burger Xúc Xích - 337 Kcal"
+            "4"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.05722,
@@ -1681,10 +1681,10 @@
     },
     {
         "antecedents": [
-            "Burger Xúc Xích - 337 Kcal"
+            "4"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.05722,
         "consequent support": 0.17618,
@@ -1697,10 +1697,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Burger Xúc Xích - 337 Kcal"
+            "4"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.05722,
@@ -1713,10 +1713,10 @@
     },
     {
         "antecedents": [
-            "Burger Xúc Xích - 337 Kcal"
+            "4"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.05722,
         "consequent support": 0.1763,
@@ -1729,10 +1729,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "Burger Xúc Xích - 337 Kcal"
+            "4"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.05722,
@@ -1745,10 +1745,10 @@
     },
     {
         "antecedents": [
-            "Burger Xúc Xích - 337 Kcal"
+            "4"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.05722,
         "consequent support": 0.14003,
@@ -1761,10 +1761,10 @@
     },
     {
         "antecedents": [
-            "Burger Xúc Xích - 337 Kcal"
+            "4"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.05722,
         "consequent support": 0.13842,
@@ -1777,10 +1777,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "Burger Xúc Xích - 337 Kcal"
+            "4"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.05722,
@@ -1793,10 +1793,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "Burger Xúc Xích - 337 Kcal"
+            "4"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.05722,
@@ -1809,10 +1809,10 @@
     },
     {
         "antecedents": [
-            "Burger Xúc Xích - 337 Kcal"
+            "4"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.05722,
         "consequent support": 0.14081,
@@ -1825,10 +1825,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Caramen đá xay"
+            "69"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03114,
@@ -1841,10 +1841,10 @@
     },
     {
         "antecedents": [
-            "Caramen đá xay"
+            "69"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03114,
         "consequent support": 0.17618,
@@ -1857,10 +1857,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Caramen đá xay"
+            "69"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03114,
@@ -1873,10 +1873,10 @@
     },
     {
         "antecedents": [
-            "Caramen đá xay"
+            "69"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03114,
         "consequent support": 0.1763,
@@ -1889,10 +1889,10 @@
     },
     {
         "antecedents": [
-            "Coca-Cola® - 150 Kcal"
+            "53"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03177,
         "consequent support": 0.17618,
@@ -1905,10 +1905,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Coca-Cola® - 150 Kcal"
+            "53"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03177,
@@ -1921,10 +1921,10 @@
     },
     {
         "antecedents": [
-            "Coca-Cola® - 150 Kcal"
+            "53"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03177,
         "consequent support": 0.1763,
@@ -1937,10 +1937,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Coca-Cola® - 150 Kcal"
+            "53"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03177,
@@ -1953,10 +1953,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Combo 2A"
+            "20"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.05981,
@@ -1969,10 +1969,10 @@
     },
     {
         "antecedents": [
-            "Combo 2A"
+            "20"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.05981,
         "consequent support": 0.17618,
@@ -1985,10 +1985,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Combo 2A"
+            "20"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.05981,
@@ -2001,10 +2001,10 @@
     },
     {
         "antecedents": [
-            "Combo 2A"
+            "20"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.05981,
         "consequent support": 0.1763,
@@ -2017,10 +2017,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "Combo 2A"
+            "20"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.05981,
@@ -2033,10 +2033,10 @@
     },
     {
         "antecedents": [
-            "Combo 2A"
+            "20"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.05981,
         "consequent support": 0.14003,
@@ -2049,10 +2049,10 @@
     },
     {
         "antecedents": [
-            "Combo 2A"
+            "20"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.05981,
         "consequent support": 0.13842,
@@ -2065,10 +2065,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "Combo 2A"
+            "20"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.05981,
@@ -2081,10 +2081,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "Combo 2A"
+            "20"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.05981,
@@ -2097,10 +2097,10 @@
     },
     {
         "antecedents": [
-            "Combo 2A"
+            "20"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.05981,
         "consequent support": 0.14081,
@@ -2113,10 +2113,10 @@
     },
     {
         "antecedents": [
-            "Combo 2B"
+            "24"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.05874,
         "consequent support": 0.17618,
@@ -2129,10 +2129,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Combo 2B"
+            "24"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.05874,
@@ -2145,10 +2145,10 @@
     },
     {
         "antecedents": [
-            "Combo 2B"
+            "24"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.05874,
         "consequent support": 0.1763,
@@ -2161,10 +2161,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Combo 2B"
+            "24"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.05874,
@@ -2177,10 +2177,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "Combo 2B"
+            "24"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.05874,
@@ -2193,10 +2193,10 @@
     },
     {
         "antecedents": [
-            "Combo 2B"
+            "24"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.05874,
         "consequent support": 0.14003,
@@ -2209,10 +2209,10 @@
     },
     {
         "antecedents": [
-            "Combo 2B"
+            "24"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.05874,
         "consequent support": 0.13842,
@@ -2225,10 +2225,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "Combo 2B"
+            "24"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.05874,
@@ -2241,10 +2241,10 @@
     },
     {
         "antecedents": [
-            "Combo 2B"
+            "24"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.05874,
         "consequent support": 0.14081,
@@ -2257,10 +2257,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "Combo 2B"
+            "24"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.05874,
@@ -2273,10 +2273,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Combo 2C"
+            "21"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.05971,
@@ -2289,10 +2289,10 @@
     },
     {
         "antecedents": [
-            "Combo 2C"
+            "21"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.05971,
         "consequent support": 0.17618,
@@ -2305,10 +2305,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Combo 2C"
+            "21"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.05971,
@@ -2321,10 +2321,10 @@
     },
     {
         "antecedents": [
-            "Combo 2C"
+            "21"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.05971,
         "consequent support": 0.1763,
@@ -2337,10 +2337,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "Combo 2C"
+            "21"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.05971,
@@ -2353,10 +2353,10 @@
     },
     {
         "antecedents": [
-            "Combo 2C"
+            "21"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.05971,
         "consequent support": 0.14003,
@@ -2369,10 +2369,10 @@
     },
     {
         "antecedents": [
-            "Combo 2C"
+            "21"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.05971,
         "consequent support": 0.13842,
@@ -2385,10 +2385,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "Combo 2C"
+            "21"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.05971,
@@ -2401,10 +2401,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "Combo 2C"
+            "21"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.05971,
@@ -2417,10 +2417,10 @@
     },
     {
         "antecedents": [
-            "Combo 2C"
+            "21"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.05971,
         "consequent support": 0.14081,
@@ -2433,10 +2433,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Combo 3A"
+            "23"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.06051,
@@ -2449,10 +2449,10 @@
     },
     {
         "antecedents": [
-            "Combo 3A"
+            "23"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.06051,
         "consequent support": 0.17618,
@@ -2465,10 +2465,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Combo 3A"
+            "23"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.06051,
@@ -2481,10 +2481,10 @@
     },
     {
         "antecedents": [
-            "Combo 3A"
+            "23"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.06051,
         "consequent support": 0.1763,
@@ -2497,10 +2497,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "Combo 3A"
+            "23"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.06051,
@@ -2513,10 +2513,10 @@
     },
     {
         "antecedents": [
-            "Combo 3A"
+            "23"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.06051,
         "consequent support": 0.14003,
@@ -2529,10 +2529,10 @@
     },
     {
         "antecedents": [
-            "Combo 3A"
+            "23"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.06051,
         "consequent support": 0.13842,
@@ -2545,10 +2545,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "Combo 3A"
+            "23"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.06051,
@@ -2561,10 +2561,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "Combo 3A"
+            "23"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.06051,
@@ -2577,10 +2577,10 @@
     },
     {
         "antecedents": [
-            "Combo 3A"
+            "23"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.06051,
         "consequent support": 0.14081,
@@ -2593,10 +2593,10 @@
     },
     {
         "antecedents": [
-            "Combo 3B"
+            "22"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.06123,
         "consequent support": 0.17618,
@@ -2609,10 +2609,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Combo 3B"
+            "22"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.06123,
@@ -2625,10 +2625,10 @@
     },
     {
         "antecedents": [
-            "Combo 3B"
+            "22"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.06123,
         "consequent support": 0.1763,
@@ -2641,10 +2641,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Combo 3B"
+            "22"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.06123,
@@ -2657,10 +2657,10 @@
     },
     {
         "antecedents": [
-            "Combo 3B"
+            "22"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.06123,
         "consequent support": 0.14003,
@@ -2673,10 +2673,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "Combo 3B"
+            "22"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.06123,
@@ -2689,10 +2689,10 @@
     },
     {
         "antecedents": [
-            "Combo 3B"
+            "22"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.06123,
         "consequent support": 0.13842,
@@ -2705,10 +2705,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "Combo 3B"
+            "22"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.06123,
@@ -2721,10 +2721,10 @@
     },
     {
         "antecedents": [
-            "Combo 3B"
+            "22"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.06123,
         "consequent support": 0.14081,
@@ -2737,10 +2737,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "Combo 3B"
+            "22"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.06123,
@@ -2753,10 +2753,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Cà phê Americano đá"
+            "63"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03055,
@@ -2769,10 +2769,10 @@
     },
     {
         "antecedents": [
-            "Cà phê Americano đá"
+            "63"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03055,
         "consequent support": 0.17618,
@@ -2785,10 +2785,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Cà phê Americano đá"
+            "63"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03055,
@@ -2801,10 +2801,10 @@
     },
     {
         "antecedents": [
-            "Cà phê Americano đá"
+            "63"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03055,
         "consequent support": 0.1763,
@@ -2817,10 +2817,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Cà phê Latte đá"
+            "59"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.0308,
@@ -2833,10 +2833,10 @@
     },
     {
         "antecedents": [
-            "Cà phê Latte đá"
+            "59"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.0308,
         "consequent support": 0.17618,
@@ -2849,10 +2849,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Cà phê Latte đá"
+            "59"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.0308,
@@ -2865,10 +2865,10 @@
     },
     {
         "antecedents": [
-            "Cà phê Latte đá"
+            "59"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.0308,
         "consequent support": 0.1763,
@@ -2881,10 +2881,10 @@
     },
     {
         "antecedents": [
-            "Cà phê sữa đá Việt Nam"
+            "57"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03107,
         "consequent support": 0.17618,
@@ -2897,10 +2897,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Cà phê sữa đá Việt Nam"
+            "57"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03107,
@@ -2913,10 +2913,10 @@
     },
     {
         "antecedents": [
-            "Cà phê sữa đá Việt Nam"
+            "57"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03107,
         "consequent support": 0.1763,
@@ -2929,10 +2929,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Cà phê sữa đá Việt Nam"
+            "57"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03107,
@@ -2945,10 +2945,10 @@
     },
     {
         "antecedents": [
-            "Cà phê đen đá Việt Nam"
+            "61"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03179,
         "consequent support": 0.17618,
@@ -2961,10 +2961,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Cà phê đen đá Việt Nam"
+            "61"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03179,
@@ -2977,10 +2977,10 @@
     },
     {
         "antecedents": [
-            "Cà phê đen đá Việt Nam"
+            "61"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03179,
         "consequent support": 0.1763,
@@ -2993,10 +2993,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Cà phê đen đá Việt Nam"
+            "61"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03179,
@@ -3009,10 +3009,10 @@
     },
     {
         "antecedents": [
-            "Fanta®"
+            "52"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03071,
         "consequent support": 0.17618,
@@ -3025,10 +3025,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Fanta®"
+            "52"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03071,
@@ -3041,10 +3041,10 @@
     },
     {
         "antecedents": [
-            "Fanta®"
+            "52"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03071,
         "consequent support": 0.1763,
@@ -3057,10 +3057,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Fanta®"
+            "52"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03071,
@@ -3073,10 +3073,10 @@
     },
     {
         "antecedents": [
-            "Latte Đá Xay"
+            "71"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.0305,
         "consequent support": 0.17618,
@@ -3089,10 +3089,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Latte Đá Xay"
+            "71"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.0305,
@@ -3105,10 +3105,10 @@
     },
     {
         "antecedents": [
-            "Matcha Latte đá"
+            "65"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03121,
         "consequent support": 0.17618,
@@ -3121,10 +3121,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Matcha Latte đá"
+            "65"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03121,
@@ -3137,10 +3137,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Milo™ - 110 Kcal"
+            "56"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03155,
@@ -3153,10 +3153,10 @@
     },
     {
         "antecedents": [
-            "Milo™ - 110 Kcal"
+            "56"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03155,
         "consequent support": 0.17618,
@@ -3169,10 +3169,10 @@
     },
     {
         "antecedents": [
-            "Mocha Đá Xay"
+            "70"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03089,
         "consequent support": 0.17618,
@@ -3185,10 +3185,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Mocha Đá Xay"
+            "70"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03089,
@@ -3201,10 +3201,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Nước suối"
+            "54"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03084,
@@ -3217,10 +3217,10 @@
     },
     {
         "antecedents": [
-            "Nước suối"
+            "54"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03084,
         "consequent support": 0.17618,
@@ -3233,10 +3233,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Phần ăn 2 miếng gà rán"
+            "35"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.0267,
@@ -3249,10 +3249,10 @@
     },
     {
         "antecedents": [
-            "Phần ăn 2 miếng gà rán"
+            "35"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.0267,
         "consequent support": 0.17618,
@@ -3265,10 +3265,10 @@
     },
     {
         "antecedents": [
-            "Sprite®"
+            "55"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03108,
         "consequent support": 0.17618,
@@ -3281,10 +3281,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Sprite®"
+            "55"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03108,
@@ -3297,10 +3297,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Sữa chua Kiwi"
+            "67"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03083,
@@ -3313,10 +3313,10 @@
     },
     {
         "antecedents": [
-            "Sữa chua Kiwi"
+            "67"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03083,
         "consequent support": 0.17618,
@@ -3329,10 +3329,10 @@
     },
     {
         "antecedents": [
-            "Sữa tươi"
+            "51"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03092,
         "consequent support": 0.17618,
@@ -3345,10 +3345,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Sữa tươi"
+            "51"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03092,
@@ -3361,10 +3361,10 @@
     },
     {
         "antecedents": [
-            "Trà Kem Sữa"
+            "60"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.0305,
         "consequent support": 0.17618,
@@ -3377,10 +3377,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Trà Kem Sữa"
+            "60"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.0305,
@@ -3393,10 +3393,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Trà Vải"
+            "58"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03236,
@@ -3409,10 +3409,10 @@
     },
     {
         "antecedents": [
-            "Trà Vải"
+            "58"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03236,
         "consequent support": 0.17618,
@@ -3425,10 +3425,10 @@
     },
     {
         "antecedents": [
-            "Trà xanh đá xay"
+            "68"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03101,
         "consequent support": 0.17618,
@@ -3441,10 +3441,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Trà xanh đá xay"
+            "68"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03101,
@@ -3457,10 +3457,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Trà Đào"
+            "62"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.03049,
@@ -3473,10 +3473,10 @@
     },
     {
         "antecedents": [
-            "Trà Đào"
+            "62"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.03049,
         "consequent support": 0.17618,
@@ -3489,10 +3489,10 @@
     },
     {
         "antecedents": [
-            "Tắc muối mơ ngâm hạt chia"
+            "64"
         ],
         "consequents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "antecedent support": 0.0305,
         "consequent support": 0.17618,
@@ -3505,10 +3505,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™  xốt Dâu"
+            "38"
         ],
         "consequents": [
-            "Tắc muối mơ ngâm hạt chia"
+            "64"
         ],
         "antecedent support": 0.17618,
         "consequent support": 0.0305,
@@ -3521,10 +3521,10 @@
     },
     {
         "antecedents": [
-            "Latte Đá Xay"
+            "71"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.0305,
         "consequent support": 0.1763,
@@ -3537,10 +3537,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Latte Đá Xay"
+            "71"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.0305,
@@ -3553,10 +3553,10 @@
     },
     {
         "antecedents": [
-            "Matcha Latte đá"
+            "65"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03121,
         "consequent support": 0.1763,
@@ -3569,10 +3569,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Matcha Latte đá"
+            "65"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03121,
@@ -3585,10 +3585,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Milo™ - 110 Kcal"
+            "56"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03155,
@@ -3601,10 +3601,10 @@
     },
     {
         "antecedents": [
-            "Milo™ - 110 Kcal"
+            "56"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03155,
         "consequent support": 0.1763,
@@ -3617,10 +3617,10 @@
     },
     {
         "antecedents": [
-            "Mocha Đá Xay"
+            "70"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03089,
         "consequent support": 0.1763,
@@ -3633,10 +3633,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Mocha Đá Xay"
+            "70"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03089,
@@ -3649,10 +3649,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Nước suối"
+            "54"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03084,
@@ -3665,10 +3665,10 @@
     },
     {
         "antecedents": [
-            "Nước suối"
+            "54"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03084,
         "consequent support": 0.1763,
@@ -3681,10 +3681,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Phần ăn 2 miếng gà rán"
+            "35"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.0267,
@@ -3697,10 +3697,10 @@
     },
     {
         "antecedents": [
-            "Phần ăn 2 miếng gà rán"
+            "35"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.0267,
         "consequent support": 0.1763,
@@ -3713,10 +3713,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Sprite®"
+            "55"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03108,
@@ -3729,10 +3729,10 @@
     },
     {
         "antecedents": [
-            "Sprite®"
+            "55"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03108,
         "consequent support": 0.1763,
@@ -3745,10 +3745,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Sữa chua Dâu"
+            "66"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.02949,
@@ -3761,10 +3761,10 @@
     },
     {
         "antecedents": [
-            "Sữa chua Dâu"
+            "66"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.02949,
         "consequent support": 0.1763,
@@ -3777,10 +3777,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Sữa chua Kiwi"
+            "67"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03083,
@@ -3793,10 +3793,10 @@
     },
     {
         "antecedents": [
-            "Sữa chua Kiwi"
+            "67"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03083,
         "consequent support": 0.1763,
@@ -3809,10 +3809,10 @@
     },
     {
         "antecedents": [
-            "Sữa tươi"
+            "51"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03092,
         "consequent support": 0.1763,
@@ -3825,10 +3825,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Sữa tươi"
+            "51"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03092,
@@ -3841,10 +3841,10 @@
     },
     {
         "antecedents": [
-            "Trà Kem Sữa"
+            "60"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.0305,
         "consequent support": 0.1763,
@@ -3857,10 +3857,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Trà Kem Sữa"
+            "60"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.0305,
@@ -3873,10 +3873,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Trà Vải"
+            "58"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03236,
@@ -3889,10 +3889,10 @@
     },
     {
         "antecedents": [
-            "Trà Vải"
+            "58"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03236,
         "consequent support": 0.1763,
@@ -3905,10 +3905,10 @@
     },
     {
         "antecedents": [
-            "Trà xanh đá xay"
+            "68"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03101,
         "consequent support": 0.1763,
@@ -3921,10 +3921,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Trà xanh đá xay"
+            "68"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03101,
@@ -3937,10 +3937,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Trà Đào"
+            "62"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.03049,
@@ -3953,10 +3953,10 @@
     },
     {
         "antecedents": [
-            "Trà Đào"
+            "62"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.03049,
         "consequent support": 0.1763,
@@ -3969,10 +3969,10 @@
     },
     {
         "antecedents": [
-            "Tắc muối mơ ngâm hạt chia"
+            "64"
         ],
         "consequents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "antecedent support": 0.0305,
         "consequent support": 0.1763,
@@ -3985,10 +3985,10 @@
     },
     {
         "antecedents": [
-            "Kem McSundae™ xốt Sôcôla"
+            "37"
         ],
         "consequents": [
-            "Tắc muối mơ ngâm hạt chia"
+            "64"
         ],
         "antecedent support": 0.1763,
         "consequent support": 0.0305,
@@ -4001,10 +4001,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "consequents": [
-            "Phần ăn 2 miếng gà rán"
+            "35"
         ],
         "antecedent support": 0.14003,
         "consequent support": 0.0267,
@@ -4017,10 +4017,10 @@
     },
     {
         "antecedents": [
-            "Phần ăn 2 miếng gà rán"
+            "35"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™"
+            "40"
         ],
         "antecedent support": 0.0267,
         "consequent support": 0.14003,
@@ -4033,10 +4033,10 @@
     },
     {
         "antecedents": [
-            "Phần ăn 2 miếng gà rán"
+            "35"
         ],
         "consequents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "antecedent support": 0.0267,
         "consequent support": 0.13842,
@@ -4049,10 +4049,10 @@
     },
     {
         "antecedents": [
-            "Kem Xay Bánh Oreo™ Trà Xanh"
+            "39"
         ],
         "consequents": [
-            "Phần ăn 2 miếng gà rán"
+            "35"
         ],
         "antecedent support": 0.13842,
         "consequent support": 0.0267,
@@ -4065,10 +4065,10 @@
     },
     {
         "antecedents": [
-            "Kem ốc quế"
+            "36"
         ],
         "consequents": [
-            "Phần ăn 2 miếng gà rán"
+            "35"
         ],
         "antecedent support": 0.14081,
         "consequent support": 0.0267,
@@ -4081,10 +4081,10 @@
     },
     {
         "antecedents": [
-            "Phần ăn 2 miếng gà rán"
+            "35"
         ],
         "consequents": [
-            "Kem ốc quế"
+            "36"
         ],
         "antecedent support": 0.0267,
         "consequent support": 0.14081,

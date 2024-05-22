@@ -97,7 +97,7 @@ $(document).ready(function ($) {
             easing: "ease-in-out",
           },
           load: {
-            filter: ".all, .breakfast, .lunch, .dinner, .beverages, .desserts",
+            filter: ".all, .burger, .dessert, .combo, .chicken, .icecream, .snackfood, .colddrink, .hotdrink",
           },
         });
       },
